@@ -6,7 +6,8 @@
     {"date": "2026-05-18", "subject": "LIV fights for life"},
     {"date": "2026-05-19", "subject": "PE sports ban"},
     {"date": "2026-05-20", "subject": "Frozen"},
-    {"date": "2026-05-21", "subject": "SpaceX marks the spot"}
+    {"date": "2026-05-21", "subject": "SpaceX marks the spot"},
+    {"date": "2026-05-22", "subject": "Let's eat"}
   ],
   "themes": [
     {"theme": "SpaceX IPO filing", "summary": "SpaceX filed its S-1 seeking a ~$1.75T valuation; reported $4.9B net loss on $18.67B 2025 revenue. Only Starlink is profitable. Expected to trade late June on Nasdaq (SPCX). Crystallizes the emerging AI-IPO order ahead of OpenAI/Anthropic."},
@@ -83,6 +84,29 @@
     {"date": "2026-05-21", "company": "New York magazine", "sector": "media", "stage": "M&A", "amount_usd": 300, "market": "ma", "lead": "Lupa Systems (J. Murdoch)", "country": "US", "note": "bought from Vox Media"},
     {"date": "2026-05-21", "company": "Caliber Resource Partners", "sector": "energy/oil&gas", "stage": "M&A", "amount_usd": 1300, "market": "ma", "lead": "NextEra", "country": "US", "note": "Quantum selling to NextEra"},
     {"date": "2026-05-21", "company": "CPPIB PE fund-stakes portfolio", "sector": "secondaries", "stage": "secondary", "amount_usd": 2900, "market": "secondary", "lead": "Ardian/Blackstone", "country": "CA", "note": "C$4b PE fund stakes secondary"},
-    {"date": "2026-05-21", "company": "Genie Security", "sector": "cybersecurity", "stage": "M&A", "amount_usd": 50, "market": "ma", "lead": "Cyera", "country": null, "note": "Cyera ($9b) acquired"}
+    {"date": "2026-05-21", "company": "Genie Security", "sector": "cybersecurity", "stage": "M&A", "amount_usd": 50, "market": "ma", "lead": "Cyera", "country": null, "note": "Cyera ($9b) acquired"},
+
+    {"date": "2026-05-22", "company": "Hark", "sector": "AI", "stage": "Series A", "amount_usd": 700, "market": "primary", "lead": "Parkway Venture Capital", "valuation": "$6b", "country": "US", "note": "universal AI interface; AMD/ARK/Brookfield/Intel/Qualcomm/Salesforce co-invest"},
+    {"date": "2026-05-22", "company": "Modal", "sector": "AI", "stage": "Series C", "amount_usd": 355, "market": "primary", "lead": "General Catalyst/Redpoint", "valuation": "$4.65b", "country": "US", "note": "AI infrastructure/compute layer; Menlo, Accel co-invest"},
+    {"date": "2026-05-22", "company": "Farther", "sector": "fintech/AI", "stage": "Series D", "amount_usd": 150, "market": "primary", "lead": "General Atlantic", "country": "US", "note": "AI platform for financial advisors; CapitalG/Bessemer/Khosla/Lightspeed in"},
+    {"date": "2026-05-22", "company": "Fresha", "sector": "beauty/marketplace", "stage": "growth", "amount_usd": 80, "market": "primary", "lead": "KKR", "valuation": ">$1b", "country": "UK", "note": "beauty booking marketplace; London"},
+    {"date": "2026-05-22", "company": "SignalPlus", "sector": "crypto", "stage": "growth", "amount_usd": 40, "market": "primary", "lead": "HashKey Capital", "country": "HK", "note": "crypto derivatives trading platform"},
+    {"date": "2026-05-22", "company": "Oorja Bio", "sector": "biotech", "stage": "Series A", "amount_usd": 30, "market": "primary", "lead": "Westlake BioPartners", "country": "US", "note": "fibrotic/cardiopulmonary therapies"},
+    {"date": "2026-05-22", "company": "The Path", "sector": "AI/mental-health", "stage": "seed", "amount_usd": 14.3, "market": "primary", "lead": "Prime Movers Lab", "country": "US", "note": "AI therapy platform co-founded by Tony Robbins"},
+    {"date": "2026-05-22", "company": "Aboard", "sector": "cleantech", "stage": "growth", "amount_usd": 13, "market": "primary", "lead": "Ondine Capital/Llama Ventures", "country": "US", "note": "electric travel trailers"},
+    {"date": "2026-05-22", "company": "Clouted", "sector": "marketing tech", "stage": "seed", "amount_usd": 7, "market": "primary", "lead": "Slow Ventures", "country": "US", "note": "short video marketing"},
+    {"date": "2026-05-22", "company": "Cycles", "sector": "crypto", "stage": "seed", "amount_usd": 6.4, "market": "primary", "lead": "Blockchange Ventures", "country": "CH", "note": "crypto clearing protocol"},
+    {"date": "2026-05-22", "company": "Foundation", "sector": "crypto", "stage": "seed", "amount_usd": 6.4, "market": "primary", "lead": "Fulgur Ventures", "country": null, "note": "Bitcoin hardware wallets"},
+    {"date": "2026-05-22", "company": "Vêtir", "sector": "fashion tech", "stage": "Series A", "amount_usd": 5.5, "market": "primary", "lead": "Laidlaw & Co", "valuation": "$150m", "country": "US", "note": "wardrobe styling tech; NYC"},
+    {"date": "2026-05-22", "company": "Shatterdome Energy", "sector": "energy", "stage": "pre-seed", "amount_usd": 3.5, "market": "primary", "lead": "Crucible Capital", "country": "US", "note": "energy trading startup; SF"},
+    {"date": "2026-05-22", "company": "Lee (Kontoor Brands)", "sector": "consumer/apparel", "stage": "M&A", "amount_usd": 750, "market": "ma", "lead": "Authentic Brands Group", "country": "US", "note": "denim brand acquisition; up to $1b total"},
+    {"date": "2026-05-22", "company": "Circor (aerospace unit)", "sector": "aerospace/defense", "stage": "M&A", "amount_usd": 2550, "market": "ma", "lead": "Parker-Hannifin", "country": "US", "note": "Parker-Hannifin buys from KKR; commercial & defense aerospace"},
+    {"date": "2026-05-22", "company": "Recordati", "sector": "pharma", "stage": "M&A", "amount_usd": 11700, "market": "ma", "lead": "CVC Capital/Groupe Bruxelles Lambert", "country": "IT", "note": "€10.7b bid for Italian drugmaker"},
+    {"date": "2026-05-22", "company": "Fractional AI", "sector": "AI/services", "stage": "M&A", "market": "ma", "country": "US", "note": "AI services startup acquired by Anthropic PE-backed services firm"},
+    {"date": "2026-05-22", "company": "Princeton Digital Group China assets", "sector": "data centers", "stage": "asset sale", "amount_usd": 1000, "market": "ma", "lead": "Warburg Pincus (seller)", "country": "CN", "note": "Warburg monetizing China DC assets; up to $1b"},
+    {"date": "2026-05-22", "company": "Sanotact", "sector": "healthcare", "stage": "M&A", "market": "ma", "lead": "Avista Healthcare Partners", "country": "DE", "note": "vitamins/supplements distributor"},
+    {"date": "2026-05-22", "company": "Oura", "sector": "consumer health", "stage": "IPO", "market": "ipo", "valuation": "$11b (VC)", "country": "FI", "note": "smart ring; confidential IPO filing"},
+    {"date": "2026-05-22", "company": "Blockchain.com", "sector": "crypto", "stage": "IPO", "market": "ipo", "country": "US", "note": "confidential US IPO filing"},
+    {"date": "2026-05-22", "company": "Wonder", "sector": "food tech", "stage": "pre-IPO", "amount_usd": null, "market": "primary", "valuation": "$7b", "country": "US", "note": "planning IPO 2027; acquiring local restaurant brands; ~$2.4b raised; 130 locations; AI virtual-restaurant tool"}
   ]
 }
