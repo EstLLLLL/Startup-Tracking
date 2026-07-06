@@ -1,2 +1,4 @@
 # Intermediate extraction scratch (consolidated into data/*.json)
 data/raw/
+__pycache__/
+*.pyc
