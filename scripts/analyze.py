@@ -62,8 +62,14 @@ def qa(issues):
     by_date = collections.defaultdict(list)
     for it in issues:
         by_date[it.get('date')].append((str(it.get('subject',''))[:42], it.get('_src')))
+    missing_dates = by_date.pop(None, []) + by_date.pop('', [])
     dups = {k: v for k, v in by_date.items() if len(v) > 1}
-    print(f"\n[QA] issue dates: {len(by_date)} | dates with >1 distinct issue (possible contamination): {len(dups)}")
+    print(
+        f"\n[QA] issue dates: {len(by_date)} | issues missing dates: {len(missing_dates)} "
+        f"| dates with >1 distinct issue (possible contamination): {len(dups)}"
+    )
+    for subject, src in missing_dates:
+        print(f"  !! missing date: {subject!r} ({src})")
     for k in sorted(dups):
         subs = {s for s,_ in dups[k]}
         if len(subs) > 1:
