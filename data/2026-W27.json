@@ -1,0 +1,1787 @@
+{
+  "week": "2026-W27",
+  "range": "2026-06-29..2026-07-02",
+  "source": "Axios Pro Rata",
+  "issues": [
+    {
+      "date": "2026-06-29",
+      "subject": "Comcast splits"
+    },
+    {
+      "date": "2026-06-30",
+      "subject": "Steely promises"
+    },
+    {
+      "date": "2026-07-01",
+      "subject": "AOL IPO"
+    },
+    {
+      "date": "2026-07-02",
+      "subject": "Sun Valley"
+    },
+    {
+      "note": "No Friday (2026-07-03) issue found; likely skipped ahead of the July 4 holiday weekend."
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Forward-deployed-engineer (FDE) land grab",
+      "summary": "Microsoft committing $2.5b for Microsoft Frontier Co (6,000 AI/eng experts embedded at customers), two days after Amazon's $1b FDE investment, following Anthropic and OpenAI FDE affiliates already funded by PE. Sector total >=$8.5b committed in weeks."
+    },
+    {
+      "theme": "Legacy-tech roll-up goes public",
+      "summary": "Bending Spoons ($1.7b IPO, $18.4b valuation, Nasdaq: BSP) revitalizes distressed consumer brands (AOL, Vimeo, Eventbrite); founder says only ~10% of 1,000+ scouted targets are realistically buyable today but expects 90% buyable within 5-6 years."
+    },
+    {
+      "theme": "AI infra mega-rounds continue",
+      "summary": "Etched ($800m, stealth exit, $5b+ post), Together AI ($800m at $8.3b), Switch (in talks for $2b at $50b incl debt), Quantum Systems ($1.2b Series D at $8b) — capital concentrating in inference/cloud/defense-adjacent AI infra."
+    },
+    {
+      "theme": "Industrial conglomerate breakup",
+      "summary": "Comcast splitting into NBCUniversal (Cavanagh) and a leaner Comcast (Angelakis ex-Atairos), a tax-free spinoff; management denies it's prelude to M&A despite obvious consolidation logic (Charter/Cox closing, WBD/Paramount deal)."
+    },
+    {
+      "theme": "PE-in-youth-sports scrutiny",
+      "summary": "FlexWork Sports/ProCamps tie-up lands the same morning as a bipartisan House subcommittee hearing on regulating PE ownership of youth sports."
+    },
+    {
+      "theme": "Q2 IPO window stayed open, PE megadeals cooled",
+      "summary": "48 US IPOs raised $104.8b in Q2 (led by SpaceX) per Renaissance Capital, while PitchBook's first Q2 PE look flags a slowing megadeal pace and exits merely tracking 2025's rate."
+    }
+  ],
+  "deals": [
+    {
+      "date": "2026-06-29",
+      "company": "Rocket Lab / Iridium Communications",
+      "sector": "space/satellite",
+      "stage": "M&A",
+      "amount_usd": 8000,
+      "market": "ma",
+      "lead": "Rocket Lab",
+      "valuation": "$8b ($54/share, incl $27 cash)",
+      "country": "US",
+      "note": "BFD; combines launch+sat mfg with Iridium's satellite network; challenge to SpaceX"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "8090 Labs",
+      "sector": "AI (agentic software factory)",
+      "stage": "Series A",
+      "amount_usd": 135,
+      "market": "primary",
+      "lead": "Salesforce Ventures",
+      "country": "US",
+      "note": "led by Chamath Palihapitiya; joined by WndrCo, Craft Ventures, The Production Board, Launch"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Quantifind",
+      "sector": "AI/risk intelligence (fincrime & national security)",
+      "stage": "growth",
+      "amount_usd": 200,
+      "market": "primary",
+      "lead": "Summit Partners",
+      "country": "US",
+      "note": "Palo Alto; joined by Citi Ventures, S&P Global, Deloitte, Stephens Group"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Straiker",
+      "sector": "AI security (secures AI agents)",
+      "stage": "Series A",
+      "amount_usd": 64,
+      "market": "primary",
+      "lead": "Marathon Management Partners",
+      "country": "US",
+      "note": "joined by Citi Ventures, Illuminate Ventures, Workday Ventures, Bain Capital Ventures, Lightspeed"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Gaussion",
+      "sector": "energy intelligence (battery packs)",
+      "stage": "growth",
+      "amount_usd": 28,
+      "market": "primary",
+      "lead": "BGF/AlbionVC",
+      "country": "UK",
+      "note": "joined by Autotech Ventures, UCL Technology Fund, DN Capital, Future Ventures"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Aseon Labs",
+      "sector": "robotics (AV fleet pit stops)",
+      "stage": "seed",
+      "amount_usd": 10,
+      "market": "primary",
+      "lead": "Crane Venture Partners",
+      "country": "US",
+      "note": "joined by YC, Expa, Robin Hood Ventures, Founders Capital"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Kakaku (Tokyo: 2371)",
+      "sector": "consumer internet",
+      "stage": "takeover bid",
+      "amount_usd": 3700,
+      "market": "ma",
+      "lead": "Bain Capital / LY Corp (SoftBank)",
+      "country": "JP",
+      "note": "binding offer vs rival EQT tender; Japanese price-comparison/job site"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Kayne Anderson real estate business",
+      "sector": "real estate",
+      "stage": "buyout",
+      "amount_usd": 1400,
+      "market": "ma",
+      "lead": "Bridgepoint",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Republic Finance",
+      "sector": "consumer lending",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "JC Flowers",
+      "country": "US",
+      "note": "from CVC Capital Partners"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "EDF US & Canada renewables",
+      "sector": "energy/renewables",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "KKR",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "QuidelOrtho point-of-care testing unit",
+      "sector": "healthcare/medtech",
+      "stage": "divestiture",
+      "amount_usd": 1500,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); suitors Advent Intl, SK Capital Partners"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Genesi",
+      "sector": "industrial safety gear",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "SureWerx (Partners Group)",
+      "country": "IT"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "AMR Resources Acquisition",
+      "sector": "critical minerals SPAC",
+      "stage": "IPO filing",
+      "amount_usd": 250,
+      "market": "ipo",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Hub International",
+      "sector": "insurance brokerage",
+      "stage": "confidential IPO filing",
+      "amount_usd": null,
+      "market": "ipo",
+      "country": "US",
+      "note": "owned by Hellman & Friedman; backers T. Rowe Price, Alpha Wave Global, Temasek"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Momenta Global",
+      "sector": "autonomous driving",
+      "stage": "IPO",
+      "amount_usd": 752,
+      "market": "ipo",
+      "country": "CN",
+      "note": "Hong Kong IPO; backers GM, Tencent, Primavera Capital Group"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Thorne",
+      "sector": "supplements",
+      "stage": "buyout",
+      "amount_usd": 3000,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare/supplements); Haleon buying from L Catterton (bought for $680m in 2023)"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Troon Golf",
+      "sector": "leisure/golf",
+      "stage": "sale process",
+      "amount_usd": 2000,
+      "market": "ma",
+      "lead": "Leonard Green / TPG",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Wildfire Energy",
+      "sector": "energy/oil & gas",
+      "stage": "buyout talks",
+      "amount_usd": 4000,
+      "market": "ma",
+      "lead": "Magnolia Oil & Gas",
+      "country": "US",
+      "note": "from Warburg Pincus, Kayne Anderson"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Momentum Midstream",
+      "sector": "energy/pipelines",
+      "stage": "buyout talks",
+      "amount_usd": 5500,
+      "market": "ma",
+      "lead": "Williams Cos.",
+      "country": "US",
+      "note": "from EnCap Flatrock Midstream"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "CSA Group",
+      "sector": "product testing & certification",
+      "stage": "sale process",
+      "amount_usd": 2000,
+      "market": "ma",
+      "country": "CA",
+      "note": "hired Jefferies; ~C$2b"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Lhoist North America",
+      "sector": "industrial materials (limestone)",
+      "stage": "buyout",
+      "amount_usd": 13500,
+      "market": "ma",
+      "lead": "Martin Marietta Materials",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Biolife Solutions (Nasdaq: BLFS)",
+      "sector": "healthcare/biotech tools",
+      "stage": "acquisition interest",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); interest from Repligen"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Harvey Nichols",
+      "sector": "luxury retail",
+      "stage": "sale process",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "UK",
+      "note": "owner Dickson Poon weighing sale"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Theravance Biopharma (Nasdaq: TBPH)",
+      "sector": "biotech/pharma",
+      "stage": "buyout",
+      "amount_usd": 929,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); Zymeworks buying, 3.6% discount to Friday close"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Daybreak",
+      "sector": "VC fund (early-stage)",
+      "stage": "debut fund",
+      "amount_usd": 100,
+      "market": "fund",
+      "lead": "Rex Woodbury",
+      "country": "US",
+      "note": "$75m debut + $25m follow-on fund"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Discipulus Ventures",
+      "sector": "VC fund (hard-tech)",
+      "stage": "debut fund",
+      "amount_usd": 30,
+      "market": "fund",
+      "lead": "Jakob Diepenbrock",
+      "country": "US",
+      "note": "LPs incl Palmer Luckey, Brian Armstrong"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Framework Ventures",
+      "sector": "VC fund",
+      "stage": "fund IV",
+      "amount_usd": 400,
+      "market": "fund",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Rogue Venture Partners",
+      "sector": "VC fund",
+      "stage": "fund V",
+      "amount_usd": 15,
+      "market": "fund",
+      "country": "US",
+      "note": "San Antonio; per SEC filing"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "Mesh Optical",
+      "sector": "AI infra (optical tech for data centers)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "SpaceX",
+      "country": "US",
+      "note": "FTC-approved; had raised $50m from Thrive Capital, Also Capital, Banner VC; founded by ex-SpaceX engineers"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "ProCamps / G3 Marketing",
+      "sector": "youth sports",
+      "stage": "M&A",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "FlexWork Sports (Otro Capital)",
+      "country": "US",
+      "note": "BFD; amid political scrutiny of PE in youth sports"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "LeapXpert",
+      "sector": "compliance/fintech (external messaging monitoring)",
+      "stage": "growth",
+      "amount_usd": 180,
+      "market": "primary",
+      "lead": "Riverwood Capital",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Stathera",
+      "sector": "semiconductors (silicon timing)",
+      "stage": "Series B",
+      "amount_usd": 55,
+      "market": "primary",
+      "lead": "Maverick Silicon",
+      "country": "CA",
+      "note": "joined by Celesta Capital, BDC Capital, MediaTek Innovation Fund, TXC, Ultratech Capital Partners"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Omen AI",
+      "sector": "industrial tech (continuous fluid analysis)",
+      "stage": "Series A",
+      "amount_usd": 31,
+      "market": "primary",
+      "lead": "Nava Ventures",
+      "country": "US",
+      "note": "joined by CRV, Sheryl Sandberg, Vanderbilt University, Mann+Hummel"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "1001",
+      "sector": "AI (sovereign AI for critical infrastructure)",
+      "stage": "Series A",
+      "amount_usd": 30,
+      "market": "primary",
+      "lead": "Lux Capital",
+      "country": "US",
+      "note": "joined by Sanabil Investments, General Catalyst, Chris Ré"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Jota",
+      "sector": "fintech (WhatsApp-based financial/personal assistant)",
+      "stage": "Series A",
+      "amount_usd": 30,
+      "market": "primary",
+      "lead": "Haun Ventures",
+      "country": null,
+      "note": "joined by HOF Capital, Greyhound Capital, Alter Global"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Nebex",
+      "sector": "fintech/space (connects space startups to sovereign buyers)",
+      "stage": "seed",
+      "amount_usd": 30,
+      "market": "primary",
+      "lead": "GV",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Taxwire",
+      "sector": "fintech (sales tax automation)",
+      "stage": "seed/Series A",
+      "amount_usd": 25,
+      "market": "primary",
+      "country": "US",
+      "note": "Headline Ventures, XYZ VC, Vinyl, Recall Capital, Nomo Ventures"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Ognomy Sleep",
+      "sector": "healthcare (virtual sleep apnea care)",
+      "stage": "Series A",
+      "amount_usd": 20,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); lead Catalyst Investors, joined Blue Heron Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Pie",
+      "sector": "fintech (growth platform for SMBs)",
+      "stage": "Series A",
+      "amount_usd": 19.5,
+      "market": "primary",
+      "lead": "Lightspeed",
+      "country": "US",
+      "note": "joined by Capital One Ventures, SciFi VC, F-Prime, Commerce Ventures, WEX Venture Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "The Protein Brewery",
+      "sector": "foodtech (fungi-based ingredients)",
+      "stage": "Series B extension",
+      "amount_usd": 18,
+      "market": "primary",
+      "lead": "ABN AMRO Sustainable Impact Fund",
+      "country": "NL",
+      "note": "€18m; joined by Invest-NL, Novo Holdings, Madeli"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Queue",
+      "sector": "healthcare (prescription kiosk)",
+      "stage": "seed",
+      "amount_usd": 12.6,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); lead AlleyCorp, joined Riot Ventures, House Capital, Ubiquity Ventures"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Omni",
+      "sector": "petfood (plant-based pet foods)",
+      "stage": "Series A",
+      "amount_usd": 11,
+      "market": "primary",
+      "lead": "IW Capital/Redrice Ventures",
+      "country": "UK",
+      "note": "£11m; joined RootBridge Capital, Digitalis Ventures, Lever VC"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Pocket",
+      "sector": "consumer hardware (AI note-taking device)",
+      "stage": "seed",
+      "amount_usd": 11,
+      "market": "primary",
+      "country": "US",
+      "note": "investors Accel, YC, Mati Staniszewski"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Proception",
+      "sector": "robotics (robot hands)",
+      "stage": "seed",
+      "amount_usd": 11,
+      "market": "primary",
+      "lead": "First Round Capital",
+      "country": "US",
+      "note": "joined by YC, BoxGroup"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Arato",
+      "sector": "AI (systems evaluation)",
+      "stage": "seed",
+      "amount_usd": 10,
+      "market": "primary",
+      "lead": "TLV Partners",
+      "country": "IL",
+      "note": "joined by Jibe Ventures"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "BR-DGE",
+      "sector": "fintech/payments",
+      "stage": "growth",
+      "amount_usd": 10,
+      "market": "primary",
+      "lead": "Bettor Capital",
+      "country": "UK",
+      "note": "£10m"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Baz Technologies",
+      "sector": "AI (agentic coding)",
+      "stage": "seed extension",
+      "amount_usd": 9,
+      "market": "primary",
+      "lead": "Battery Ventures/Boldstart Ventures",
+      "country": "US",
+      "note": "joined by AFG Partners, Disruptive VC"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "GenerativeX",
+      "sector": "AI (forward-deployed engineer teams)",
+      "stage": "Series A",
+      "amount_usd": 4,
+      "market": "primary",
+      "lead": "Nissay Capital",
+      "country": "US",
+      "note": "joined by Salesforce Ventures, Angel Bridge, DeepCore, SMBC Venture Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Coast 4C",
+      "sector": "climate/agtech (seaweed)",
+      "stage": "seed",
+      "amount_usd": 2.5,
+      "market": "primary",
+      "lead": "Hatch Blue",
+      "country": null
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Nomerra",
+      "sector": "AI (platform for private markets operations)",
+      "stage": "growth",
+      "amount_usd": 2,
+      "market": "primary",
+      "lead": "14Peaks Capital",
+      "country": "DE",
+      "note": "joined by Redstone Fintech"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Archimede",
+      "sector": "energy (monitoring for off-grid critical infra)",
+      "stage": "seed",
+      "amount_usd": 1.6,
+      "market": "primary",
+      "lead": "Primo Capital SGR",
+      "country": "IT",
+      "note": "€1.5m; joined by CDP Venture Capital, Plug and Play"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Saltroad / Ogma",
+      "sector": "healthcare (speech & language therapy + AI docs)",
+      "stage": "seed + acquisition",
+      "amount_usd": 1.6,
+      "market": "primary",
+      "country": "UK",
+      "note": "downweighted (healthcare); £1.5m led by Techstart Ventures; also acquired Ogma"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "PASCO",
+      "sector": "building automation & energy services",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Albireo Energy (Huron Capital)",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "ClinOhio Research Services",
+      "sector": "healthcare (clinical research site)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); AMR Clinical (Curewell/CFT Capital)"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Telegraph Media Group",
+      "sector": "media",
+      "stage": "buyout",
+      "amount_usd": 770.5,
+      "market": "ma",
+      "lead": "Axel Springer (backed by KKR)",
+      "country": "UK",
+      "note": "£575m completed"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Carbon Underwriting",
+      "sector": "insurance",
+      "stage": "growth investment",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "FTV Capital",
+      "country": "UK"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Premier Forge Group",
+      "sector": "industrial (aerospace/defense forgings)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "H.I.G. Capital",
+      "country": "US",
+      "note": "from Wynnchurch Capital Partners"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Irca",
+      "sector": "food ingredients (B2B manufacturer)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "CVC Capital Partners",
+      "country": "IT",
+      "note": "from Advent International"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Clevertech",
+      "sector": "packaging",
+      "stage": "buyout",
+      "amount_usd": 864.0,
+      "market": "ma",
+      "lead": "CVC Capital Partners",
+      "country": "IT",
+      "note": ">€800m"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Deerfield Group",
+      "sector": "healthcare marketing/comms",
+      "stage": "majority buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); Martis Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Cardinal Midstream Partners",
+      "sector": "energy/midstream",
+      "stage": "buyout",
+      "amount_usd": 752,
+      "market": "ma",
+      "lead": "San Mateo Midstream (Five Point Infrastructure)",
+      "country": "US",
+      "note": "from EnCap Flatrock Midstream"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Mura",
+      "sector": "fintech/field services (billing & collections automation)",
+      "stage": "acquisition",
+      "amount_usd": 6,
+      "market": "ma",
+      "lead": "ServiceTrade (JMI Equity)",
+      "country": "US",
+      "note": "Mura had raised ~$6m seed led by Level One Fund, Lerer Hippeau"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Swansea City",
+      "sector": "sports",
+      "stage": "investment",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "Shamrock Capital",
+      "country": "UK",
+      "note": "Welsh soccer club"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "AMC Safety / Safe Construction Consulting",
+      "sector": "safety & compliance services",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Smart Safety Gulf Coast (Carr's Hill)",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Ares Acquisition III",
+      "sector": "SPAC",
+      "stage": "IPO",
+      "amount_usd": 345,
+      "market": "ipo",
+      "country": "US",
+      "note": "upsized"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Luxshare",
+      "sector": "electronics manufacturing (Apple AirPods)",
+      "stage": "IPO",
+      "amount_usd": 3100,
+      "market": "ipo",
+      "country": "CN",
+      "note": "Hong Kong float"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Root",
+      "sector": "cybersecurity (vulnerability fixes for containers)",
+      "stage": "acquisition",
+      "amount_usd": 40,
+      "market": "ma",
+      "lead": "Aikido Security",
+      "country": "US",
+      "note": "Boston; Root had raised ~$40m from Insight Partners, Global VC/StepStone, Boldstart, Decibel, Lama, Knollwood, TechAviv"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Cotton Patch Cafe",
+      "sector": "restaurants",
+      "stage": "sale",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Local Favorite Restaurants",
+      "country": "US",
+      "note": "from Altamont Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "3 Virginia data centers",
+      "sector": "AI infra/data centers",
+      "stage": "sale",
+      "amount_usd": 3500,
+      "market": "ma",
+      "lead": "Digital Realty",
+      "country": "US",
+      "note": "from Blackstone; cash+stock"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Owens Corning (NYSE: OC)",
+      "sector": "building products",
+      "stage": "unsolicited takeover offers",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Carlisle",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Anfield Capital Management",
+      "sector": "wealth management",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Horizon",
+      "country": "US"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Kartos Therapeutics",
+      "sector": "biotech/oncology",
+      "stage": "buyout",
+      "amount_usd": 1750,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); Ipsen buying, had raised $265m from SR One, OrbiMed, Amgen, Quogue Capital"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "Shell South Africa fuel stations",
+      "sector": "energy retail",
+      "stage": "sale talks",
+      "amount_usd": 1000,
+      "market": "ma",
+      "lead": "Adnoc unit",
+      "country": "ZA"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Bending Spoons",
+      "sector": "tech holding co (revitalizes legacy tech/consumer brands)",
+      "stage": "IPO",
+      "amount_usd": 1700,
+      "market": "ipo",
+      "valuation": "$18.4b",
+      "country": "IT",
+      "note": "priced $29/share vs $26-28 range; lists Nasdaq BSP; owns AOL, Vimeo, Eventbrite etc."
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Care Bears (Cloverlay/Ivest parent co.)",
+      "sector": "consumer/licensing (character IP)",
+      "stage": "M&A",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Authentic Brands Group",
+      "country": "US",
+      "note": "BFD; from Ivest Consumer Partners & Cloverlay; bought for ~$100m in 2023; expected $750m 2026 retail sales"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Etched",
+      "sector": "AI chips (frontier inference clusters)",
+      "stage": "multiple rounds",
+      "amount_usd": 800,
+      "market": "primary",
+      "valuation": "$5b+ post (last raise $500m at $5b)",
+      "country": "US",
+      "note": "San Jose; came out of stealth; backers Peter Thiel, Jane Street, Two Sigma, Karpathy, Hinton, Fei-Fei Li"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Together AI",
+      "sector": "AI infrastructure (AI-native cloud)",
+      "stage": "growth",
+      "amount_usd": 800,
+      "market": "primary",
+      "lead": "Aramco Ventures",
+      "valuation": "$8.3b",
+      "country": "US",
+      "note": "joined by Vista Equity Partners, General Catalyst, Emergence Capital, Nvidia, March Capital"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "InKind",
+      "sector": "restaurant tech (commerce enablement)",
+      "stage": "growth",
+      "amount_usd": 320,
+      "market": "primary",
+      "lead": "Liberty Mutual Investments",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Beeline Medicines",
+      "sector": "biotech (precision immunology)",
+      "stage": "Series A extension",
+      "amount_usd": 126,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); insiders Bain Capital, CPPIB"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Dominion Dynamics",
+      "sector": "defense tech (Arctic surveillance & drones)",
+      "stage": "Series A",
+      "amount_usd": 101.5,
+      "market": "primary",
+      "lead": "Georgian",
+      "country": "CA",
+      "note": "C$139m; joined by Valor Equity Partners, Lakestar, OMERS, BDC, RBC, Bessemer, Golden Ventures"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "TwelveLabs",
+      "sector": "AI (video intelligence)",
+      "stage": "Series B",
+      "amount_usd": 100,
+      "market": "primary",
+      "lead": "NEA/Naver Ventures",
+      "country": "US",
+      "note": "joined by Amazon, Radical Ventures, Index Ventures, Quadrille Capital, Red Bull Ventures"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Higharc",
+      "sector": "proptech (cloud platform for homebuilding)",
+      "stage": "Series C",
+      "amount_usd": 95,
+      "market": "primary",
+      "lead": "Insight Partners",
+      "country": "US",
+      "note": "joined by Wellington Management, Fifth Wall, Spark Capital, Lux Capital"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Aligned",
+      "sector": "sales tech (B2B sales workspace)",
+      "stage": "Series B",
+      "amount_usd": 60,
+      "market": "primary",
+      "lead": "PeakSpan Capital",
+      "country": "US/IL"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "MDOTM",
+      "sector": "fintech (investment management tech)",
+      "stage": "growth",
+      "amount_usd": 27,
+      "market": "primary",
+      "lead": "Expedition Growth Capital",
+      "country": null
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Build",
+      "sector": "fintech (infrastructure due diligence platform)",
+      "stage": "seed",
+      "amount_usd": 8.5,
+      "market": "primary",
+      "lead": "Index Ventures",
+      "country": "US",
+      "note": "joined by Pebblebed, Puzzle Ventures, Tiny vc, Sarah Friar"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Arcturus",
+      "sector": "climate tech (carbon materials)",
+      "stage": "seed",
+      "amount_usd": 8,
+      "market": "primary",
+      "lead": "Initialized Capital",
+      "country": "US",
+      "note": "joined by 1517, Breakthrough Energy Discovery, Toyota Ventures"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Hypefy AI",
+      "sector": "AI (influencer marketing platform)",
+      "stage": "Series A",
+      "amount_usd": 7.2,
+      "market": "primary",
+      "lead": "AYMO Ventures",
+      "country": "HR"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Acti",
+      "sector": "AI hardware (agentic keyboard)",
+      "stage": "seed",
+      "amount_usd": 5.3,
+      "market": "primary",
+      "lead": "Bitkraft Ventures",
+      "country": null
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Dawnguard",
+      "sector": "cybersecurity (cloud)",
+      "stage": "pre-seed",
+      "amount_usd": 3.3,
+      "market": "primary",
+      "country": null,
+      "note": "BNVT Capital, Curiosity VC, eCapital"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Digiclean",
+      "sector": "industrial tech (cleaning & maintenance optimization)",
+      "stage": "seed",
+      "amount_usd": 2.7,
+      "market": "primary",
+      "lead": "Unconventional Ventures/Almi Invest GreenTech",
+      "country": "SE"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "EquiLibre",
+      "sector": "AI (agents for Nasdaq trading)",
+      "stage": "undisclosed",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "Creandum",
+      "valuation": ">$500m",
+      "country": "CZ"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Wayve",
+      "sector": "autonomous vehicles",
+      "stage": "employee tender",
+      "amount_usd": null,
+      "market": "secondary",
+      "valuation": "$8.5b",
+      "country": "UK",
+      "note": "recently raised $1.5b Series D led Eclipse, Balderton, SoftBank"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "YumEarth",
+      "sector": "consumer/food (organic candy)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Acon Investments",
+      "country": "US",
+      "note": "from Riverside Company"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Minet Group",
+      "sector": "insurance brokerage",
+      "stage": "majority buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Adenia Partners",
+      "country": "ZA",
+      "note": "from Capitalworks"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Avantus",
+      "sector": "industrial (aerospace/defense fasteners)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Arcline Investment Management",
+      "country": "UK",
+      "note": "from Inflexion"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Sanotact",
+      "sector": "healthcare (vitamins/supplements)",
+      "stage": "buyout completed",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "DE",
+      "note": "downweighted (healthcare); Avista Healthcare Partners/Damier Group"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "PDS Energy Information (4 exchange platforms)",
+      "sector": "energy trading infra",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Enverus (Blackstone)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "BMA",
+      "sector": "energy/infra software (decision intelligence)",
+      "stage": "growth investment",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "FPE Capital",
+      "country": "UK"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "SAM Cos.",
+      "sector": "infrastructure services (geospatial/inspection)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "New Mountain Capital",
+      "country": "US",
+      "note": "from Peak Rock Capital"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Avenue Capital Group aviation leasing portfolio",
+      "sector": "aviation finance",
+      "stage": "investment",
+      "amount_usd": 250,
+      "market": "primary",
+      "lead": "Partners Group",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Perpetual (ASX: PPT)",
+      "sector": "asset management",
+      "stage": "rejected buyout offer",
+      "amount_usd": 1650.0,
+      "market": "ma",
+      "lead": "EQT",
+      "country": "AU",
+      "note": "A$2.5b rejected"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Arrow Pest Control",
+      "sector": "pest control services",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "PestCo (Thompson Street Capital Partners)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Dark Fiber & Infrastructure",
+      "sector": "telecom infra (dark fiber)",
+      "stage": "buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "SummitIG (SDC Capital Partners)",
+      "country": "US",
+      "note": "from Blue Owl Capital"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Lime",
+      "sector": "micromobility",
+      "stage": "IPO",
+      "amount_usd": 167,
+      "market": "ipo",
+      "valuation": "$1.8b fully diluted",
+      "country": "US",
+      "note": "priced mid-range $24-26; Nasdaq LIME; raised $900m+ VC from a16z, Bain Capital Ventures, Coatue, GV; peak $2.4b in 2019"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "CopperTech Metals",
+      "sector": "mining (copper)",
+      "stage": "IPO postponed",
+      "amount_usd": 400,
+      "market": "ipo",
+      "valuation": "$3.4b",
+      "country": "ZM",
+      "note": "Zambia-focused, spun out of Vedanta Resources (India)"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Dien May",
+      "sector": "electronics retail",
+      "stage": "IPO",
+      "amount_usd": 505,
+      "market": "ipo",
+      "country": "VN",
+      "note": "domestic IPO"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "ITG",
+      "sector": "telecom services",
+      "stage": "IPO",
+      "amount_usd": 312,
+      "market": "ipo",
+      "country": "US",
+      "note": "priced $16, below $19-22 range; Nasdaq ITG; owned by Oaktree Capital Management"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Osprey Acquisition III",
+      "sector": "SPAC (energy infra)",
+      "stage": "IPO",
+      "amount_usd": 261,
+      "market": "ipo",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Greencross Pet Wellness",
+      "sector": "pet retail/vet",
+      "stage": "buyout talks",
+      "amount_usd": 2640.0,
+      "market": "ma",
+      "lead": "Coles Group",
+      "country": "AU",
+      "note": "from TPG; up to A$4b"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Cognite",
+      "sector": "AI (industrial data & AI software)",
+      "stage": "acquisition",
+      "amount_usd": 3100,
+      "market": "ma",
+      "lead": "Schneider Electric",
+      "country": "NO",
+      "note": "backers Aramco, Accel, TCV"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "South32 bauxite/alumina/aluminum assets",
+      "sector": "metals & mining",
+      "stage": "acquisition",
+      "amount_usd": 5600,
+      "market": "ma",
+      "lead": "Alcoa",
+      "country": "AU"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "BridgeBio Pharma (Nasdaq: BBIO)",
+      "sector": "biotech/pharma",
+      "stage": "convertible preferred financing",
+      "amount_usd": 1000,
+      "market": "debt",
+      "country": "US",
+      "note": "downweighted (healthcare); Sixth Street & KKR-backed HealthCare Royalty"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Vest Coast Capital",
+      "sector": "deep-tech venture studio",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Cambridge Future Tech (UK)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Deutsche Bank India retail/private banking/wealth unit",
+      "sector": "banking",
+      "stage": "sale",
+      "amount_usd": 30,
+      "market": "ma",
+      "lead": "Kotak Mahindra Bank",
+      "country": "IN"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "FedEx supply chain logistics unit",
+      "sector": "logistics",
+      "stage": "sale",
+      "amount_usd": 1400,
+      "market": "ma",
+      "lead": "CMA CGM Group (France)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Giant Eagle",
+      "sector": "grocery/pharmacy retail",
+      "stage": "buyout",
+      "amount_usd": 1650,
+      "market": "ma",
+      "lead": "Kroger",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Shutterstock (NYSE: SSTK)",
+      "sector": "stock imagery",
+      "stage": "deal scrapped",
+      "amount_usd": 3700,
+      "market": "ma",
+      "lead": "Getty Images",
+      "country": "US",
+      "note": "terminated after UK antitrust insisted on editorial-business divestiture"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Joulent",
+      "sector": "energy/power generation (for MSFT data centers)",
+      "stage": "growth investment",
+      "amount_usd": 1750,
+      "market": "primary",
+      "lead": "National Grid",
+      "country": "US",
+      "note": "35% stake"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "TopBuild",
+      "sector": "building products (insulation)",
+      "stage": "acquisition completed",
+      "amount_usd": 17000,
+      "market": "ma",
+      "lead": "QXO",
+      "country": "US",
+      "note": "cash+stock; Jared Kushner leaving QXO board"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Shurco",
+      "sector": "industrial (cargo covering systems)",
+      "stage": "single-asset CV",
+      "amount_usd": 250,
+      "market": "fund",
+      "lead": "Behrman Capital",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Firebird",
+      "sector": "music IP (catalog acquisition platform)",
+      "stage": "platform launch",
+      "amount_usd": 750,
+      "market": "fund",
+      "lead": "Ares/The Raine Group",
+      "country": "US",
+      "note": "\"purchasing power\""
+    },
+    {
+      "date": "2026-07-01",
+      "company": "SageSure",
+      "sector": "insurance (catastrophe-exposed underwriting)",
+      "stage": "single-asset CV",
+      "amount_usd": 460,
+      "market": "fund",
+      "lead": "Flexpoint Ford",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Hamilton Lane direct PE fund VI",
+      "sector": "PE fund",
+      "stage": "fund close",
+      "amount_usd": 3800,
+      "market": "fund",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Ruya Ventures",
+      "sector": "VC fund (deep-tech pre-seed)",
+      "stage": "debut fund",
+      "amount_usd": 50,
+      "market": "fund",
+      "lead": "Rick Hao",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-01",
+      "company": "Tapestry VC",
+      "sector": "VC fund (immigrant founders)",
+      "stage": "fund III",
+      "amount_usd": 80,
+      "market": "fund",
+      "country": "UK/US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Microsoft Frontier Co.",
+      "sector": "AI (forward-deployed engineering services)",
+      "stage": "internal investment",
+      "amount_usd": 2500,
+      "market": "primary",
+      "lead": "Microsoft",
+      "country": "US",
+      "note": "BFD; new biz unit embeds 6,000 AI/eng experts in customer orgs; model-agnostic; FDE land-grab incl Amazon ($1b, 2 days prior), Anthropic & OpenAI FDE affiliates; sector total >=$8.5b committed"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Switch",
+      "sector": "AI infra/data centers",
+      "stage": "funding talks",
+      "amount_usd": 2000,
+      "market": "primary",
+      "lead": "a16z (among investors)",
+      "valuation": "$50b (incl debt)",
+      "country": "US",
+      "note": "Las Vegas; majority-owned by SoftBank's DigitalBridge"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Quantum Systems",
+      "sector": "defense tech (drones)",
+      "stage": "Series D",
+      "amount_usd": 1200,
+      "market": "primary",
+      "lead": "Blackstone/Noteus/Airbus/Advent International",
+      "valuation": "$8b",
+      "country": "DE",
+      "note": "joined by Bond, Fidelity, Elephant Lake Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Celea Therapeutics",
+      "sector": "biotech (idiopathic pulmonary fibrosis)",
+      "stage": "growth",
+      "amount_usd": 180,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); RA Capital Management, Leaps by Bayer, PureTech Health"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Shortical",
+      "sector": "media/entertainment (scripted micro-series platform)",
+      "stage": "user acquisition financing",
+      "amount_usd": 100,
+      "market": "debt",
+      "lead": "PvX Partners",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Venice AI",
+      "sector": "AI (privacy-focused platform)",
+      "stage": "Series A",
+      "amount_usd": 65,
+      "market": "primary",
+      "lead": "Dragonfly",
+      "valuation": "$1b",
+      "country": "US",
+      "note": "joined by Coinbase Ventures, North Island Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "CarbonSix",
+      "sector": "robotics (manufacturing hardware/software)",
+      "stage": "Series A",
+      "amount_usd": 40,
+      "market": "primary",
+      "lead": "DSC Investment/LB Investment",
+      "country": "US",
+      "note": "joined by IMM Investment, Korea Development Bank, SV Investment, Storm Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "LinqAlpha",
+      "sector": "AI (research startup)",
+      "stage": "Series A",
+      "amount_usd": 22,
+      "market": "primary",
+      "country": "US",
+      "note": "Atinum Investment, AVP, GFT Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "StirlingX",
+      "sector": "defense/drones (infrastructure inspection)",
+      "stage": "Series A",
+      "amount_usd": 20,
+      "market": "primary",
+      "country": "UK",
+      "note": "Ventura Capital, Rokos Capital Management"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Alva Industries",
+      "sector": "industrial tech (ultra-compact electric motors)",
+      "stage": "growth",
+      "amount_usd": 17.3,
+      "market": "primary",
+      "country": "NO",
+      "note": "€16m; Nysnø Climate Investments, Sandwater, Emerald Technology Ventures, Statkraft Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Wultra",
+      "sector": "fintech (digital identity software)",
+      "stage": "Series A",
+      "amount_usd": 7.3,
+      "market": "primary",
+      "lead": "Seventure Partners",
+      "country": "CZ",
+      "note": "€6.8m; joined by J&T Ventures, Elevator Ventures"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Materna Medical",
+      "sector": "healthcare (medical devices for women)",
+      "stage": "growth",
+      "amount_usd": 5,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); InnovaHealth Partners, Wavemaker360 Health, Band of Angels"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Core Communications",
+      "sector": "tech advisory/expense management",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Amplix (Gemspring Capital)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Ohio Paint Supply",
+      "sector": "industrial distribution (automotive paint)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Automotive Color & Supply (WILsquare Capital)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Kakaku (Tokyo: 2371)",
+      "sector": "consumer internet",
+      "stage": "sweetened takeover bid",
+      "amount_usd": 4100,
+      "market": "ma",
+      "lead": "Bain Capital/LY Corp (SoftBank)",
+      "country": "JP",
+      "note": "raised from $3.7b (Mon) to ~$4.1b; EQT still rival bidder"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Exdion Healthcare",
+      "sector": "healthcare (revenue cycle management)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); Experity (GTCR)"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Integra",
+      "sector": "HVAC testing/adjusting/balancing services",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Harvest Partners",
+      "country": "US",
+      "note": "from Keystone Capital"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Jiffy Lube",
+      "sector": "auto services",
+      "stage": "acquisition completed",
+      "amount_usd": 1300,
+      "market": "ma",
+      "lead": "Monomoy Capital Partners",
+      "country": "US",
+      "note": "from Shell"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Momentum Life Sciences",
+      "sector": "healthcare (specialty therapy commercialization)",
+      "stage": "investment",
+      "amount_usd": null,
+      "market": "primary",
+      "country": "US",
+      "note": "downweighted (healthcare); Parthenon Capital"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Asembia",
+      "sector": "healthcare (specialty pharma commercialization)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "downweighted (healthcare); Peak Rock Capital"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Grand Appliance",
+      "sector": "retail (appliances/electronics)",
+      "stage": "investment",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "Platinum Equity",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Epicurean Butter",
+      "sector": "food/consumer",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Solina (Astorg)",
+      "country": "US",
+      "note": "from HC Private Investments"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Family Tree Produce",
+      "sector": "food distribution",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Sunrise Produce (Investcorp)",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Horwitz",
+      "sector": "industrial services (MEP)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Truelink Capital",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Model N (non-life-sciences business)",
+      "sector": "software (revenue management)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Vendavo (Francisco Partners/Accel-KKR)",
+      "country": "US",
+      "note": "from Vista Equity Partners"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Years",
+      "sector": "consumer (dog food brand)",
+      "stage": "investment",
+      "amount_usd": null,
+      "market": "primary",
+      "lead": "Verlinvest/Five Seasons Ventures",
+      "country": "UK"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "KGS Software",
+      "sector": "software (archiving)",
+      "stage": "majority buyout",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "Volpi Capital",
+      "country": "DE"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Genneia",
+      "sector": "energy (renewables)",
+      "stage": "IPO filing",
+      "amount_usd": null,
+      "market": "ipo",
+      "country": "AR",
+      "note": "dual listing NYSE/BYMA; backer Argentum"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Meridian3 Industrials Acquisition",
+      "sector": "SPAC (industrial tech)",
+      "stage": "IPO",
+      "amount_usd": 175,
+      "market": "ipo",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Three Lions Acquisition",
+      "sector": "SPAC",
+      "stage": "IPO filing",
+      "amount_usd": 100,
+      "market": "ipo",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Viking Acquisition II",
+      "sector": "SPAC",
+      "stage": "IPO",
+      "amount_usd": 200,
+      "market": "ipo",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Memo Therapeutics",
+      "sector": "biotech (BK polyomavirus)",
+      "stage": "buyout",
+      "amount_usd": 216.0,
+      "market": "ma",
+      "country": "CH",
+      "note": "downweighted (healthcare); Ipsen buying, €200m upfront + up to €500m earnouts"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Ocean Yield",
+      "sector": "shipping/leasing",
+      "stage": "sale",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "A.P. Moller",
+      "country": "NO",
+      "note": "sold by KKR"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "SAM Seamless Network",
+      "sector": "cybersecurity (connected devices)",
+      "stage": "acquisition",
+      "amount_usd": 37,
+      "market": "ma",
+      "lead": "Qualcomm",
+      "country": "IL",
+      "note": "had raised $37m from Blumberg Capital, NightDragon, Ericsson, Telefonica, Intel Capital"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Common Room",
+      "sector": "AI/GTM intelligence platform",
+      "stage": "acquisition",
+      "amount_usd": 55,
+      "market": "ma",
+      "lead": "Zoom",
+      "country": "US",
+      "note": "had raised $55m from Next Play Ventures, Index Ventures, Madrona Venture Group"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Capricorn Energy (LSE: CNE)",
+      "sector": "energy (oil & gas)",
+      "stage": "acquisition",
+      "amount_usd": 360,
+      "market": "ma",
+      "lead": "Genel Energy",
+      "country": "UK"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Nexar / Nauto",
+      "sector": "AI (physical AI/vehicle safety)",
+      "stage": "merger",
+      "amount_usd": null,
+      "market": "ma",
+      "country": "US",
+      "note": "Nexar raised ~$150m (LionTree, Alibaba, Valor Equity); Nauto raised ~$211m (AC Ventures, Stellantis, Greylock, BMW i Ventures)"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Inner Circle Sports",
+      "sector": "investment banking (sports/media boutique)",
+      "stage": "acquisition",
+      "amount_usd": null,
+      "market": "ma",
+      "lead": "William Blair",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Magnify Ventures",
+      "sector": "VC fund (care economy)",
+      "stage": "fund II",
+      "amount_usd": 46.6,
+      "market": "fund",
+      "country": "US"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Mekong Capital climate PE fund",
+      "sector": "PE fund (climate)",
+      "stage": "fund raise",
+      "amount_usd": 200,
+      "market": "fund",
+      "country": "VN",
+      "note": "incl $50m anchor from Green Climate Fund"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "Memento Growth Partners",
+      "sector": "VC fund",
+      "stage": "debut fund",
+      "amount_usd": null,
+      "market": "fund",
+      "lead": "Kareem El Sawy",
+      "country": "US"
+    }
+  ]
+}
