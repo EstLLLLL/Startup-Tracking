@@ -8,7 +8,8 @@ When asked to run the weekly review:
 
 1. Read `preferences.md` and follow it exactly.
 2. Determine the most recent fully completed Monday-Friday workweek in the `Asia/Shanghai` timezone. Use its ISO week label `YYYY-Www`.
-3. Run a continuity check before extraction: enumerate ISO weeks represented in both `data/` and `reviews/` through the target week. If the immediately preceding completed week or any week after the established archive start is missing on either side, backfill and validate that gap before publishing the target week; never silently skip a week.\n4. If both `data/<YYYY-Www>.json` and `reviews/<YYYY-Www>.md` already exist, verify them and stop without creating duplicate output unless a rerun was explicitly requested.
+3. Run a continuity check before extraction: enumerate ISO weeks represented in both `data/` and `reviews/` through the target week. If the immediately preceding completed week or any week after the established archive start is missing on either side, backfill and validate that gap before publishing the target week; never silently skip a week.
+3. If both `data/<YYYY-Www>.json` and `reviews/<YYYY-Www>.md` already exist, verify them and stop without creating duplicate output unless a rerun was explicitly requested.
 4. Search the connected Gmail account for Axios Pro Rata messages covering that workweek. Start with `from:dan@axios.com subject:"Pro Rata" after:YYYY/MM/DD before:YYYY/MM/DD`, but do not assume the sender is always Dan Primack: if fewer than four weekday issues are found, broaden to `from:axios.com subject:"Pro Rata"` for the same dates. Paginate until all results are collected.
 5. Read the full shortlisted email bodies. Confirm each message's in-body date and subject before extracting data. Do not use snippets as the source.
 6. Write `data/<YYYY-Www>.json` with this shape:
@@ -26,6 +27,7 @@ When asked to run the weekly review:
 9. Write `reviews/<YYYY-Www>.md` with the established three-part structure: important primary and secondary/M&A/IPO deals; startup ideas and China comparisons; continuously funded directions. Match the recent reviews' level of detail.
 10. Sync and validate the website with `cd site && npm run build`. The site must display the complete review content from `reviews/` without abridging it.
 11. Publish the validated site as a new version of the existing Sites project in `site/.openai/hosting.json`. Do not create a second Sites project.
+13. Confirm the published Site archive contains every repository review through the target week and opens the target as Latest; a missing archive week is a failed delivery.
 12. Run final checks, then commit only the new or intentionally corrected weekly data, review, site output, and relevant workflow files. Push the current fixed automation branch. Do not create a new per-run branch.
 
 ## Failure behavior
