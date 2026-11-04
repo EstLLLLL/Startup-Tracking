@@ -30,6 +30,14 @@ When asked to run the weekly review:
 13. Confirm the published Site archive contains every repository review through the target week and opens the target as Latest; a missing archive week is a failed delivery.
 12. Run final checks, then commit only the new or intentionally corrected weekly data, review, site output, and relevant workflow files. Push the current fixed automation branch. Do not create a new per-run branch.
 
+## Project classification for new weekly data
+
+For every newly extracted deal, including healthcare, keep the original `sector` description and add nonempty `sector_refined` (industry) and `subsector` (specific business segment). Reuse the existing project explorer industry labels. For healthcare, add `healthcare_group` and use a group/subsector pair from the current Sites source at `app/healthcare-taxonomy.json`. When the source lacks enough detail, use the appropriate explicit pending-review label. For healthcare this pair is `待细分` / `业务方向待补核`.
+
+Preserve the financing stage, public `source_url` and the original currency and basis of any explicitly reported valuation. Keep `valuation` null where missing. Set `status` to `reported_completed`, `announced` or `proposed_or_reported` only when the source supports it. Keep raw email and private notes out of the site export.
+
+Before building or publishing, run `python3 scripts/import-weekly-projects.py /absolute/path/to/data/YYYY-Www.json` from the existing Sites source checkout. The importer validates tags and adds only allowlisted fields to `public/data/weekly-projects.json`. Confirm the new week appears in the exported archive and, if later than the workbook cutoff, in the project explorer. If the checked-out site source is outdated, use the current source of the existing Site before publishing. Existing archived weeks can keep their legacy schema unless explicitly backfilled.
+
 ## Failure behavior
 
 - If Gmail, GitHub, or Sites authorization is unavailable, stop and report the exact missing connection.
