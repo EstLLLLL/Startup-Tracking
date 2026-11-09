@@ -65,7 +65,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Emvolon , a Woburn, Mass.-based biogas-to-methanol refiner, raised $22m in Series A funding from MassVentures, VX Ventures, and Wagner Carbon. axios.link/4eb0lfl",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Woburn, Mass.-based biogas-to-methanol refiner",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "将沼气转化为低碳燃料",
+      "source_url": "https://axios.link/4eb0lfl",
+      "amount_original": "$22m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -78,7 +86,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Hypersonica , a British-German developer of hypersonic long-range missiles, raised €100m in Series B funding. Lightspeed and General Catalyst led, joined by insiders Plural and 201 Ventures. axios.link/3WJXWlL",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "British-German developer of hypersonic long-range missiles",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "开发高超音速远程导弹",
+      "source_url": "https://axios.link/3WJXWlL",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -91,7 +107,15 @@
       "valuation": null,
       "country": null,
       "note": "Marble Cognition , a business process automation startup, raised $3.75m in pre-seed funding led by Heartcore and Seedcamp . axios.link/4BCR9u7",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "business process automation startup",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4BCR9u7",
+      "amount_original": "$3.75m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -104,7 +128,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Neuron Industries , a Gardena, Calif.-based maker of an \"AI-native industrial controller,\" raised $10m in seed funding. FCVC and Obvious Ventures led, joined by YC, Thin Line Capital, Zee Prime Capital, and Founder Factor. axios.link/4BTZc66",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4BTZc66",
+      "amount_original": "$10m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -117,7 +149,15 @@
       "valuation": "$2b valuation",
       "country": "United States",
       "note": "Northwood Space , a Torrance, Calif.-based satellite antenna builder and ground station provider, raised $375m in Series C funding at a $2b valuation. A16z and DFJ Growth led, joined by Alpine Space Ventures, Washington Harbour Partners, StepStone, and In-Q-Tel. axios.link/4iTabFd",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Torrance, Calif.-based satellite antenna builder and ground station provider",
+      "sector_refined": "国防与航天",
+      "subsector": "卫星通信与地面基础设施",
+      "business_description_zh": "为卫星运营商提供天线和地面站基础设施",
+      "source_url": "https://axios.link/4iTabFd",
+      "amount_original": "$375m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -130,7 +170,15 @@
       "valuation": null,
       "country": null,
       "note": "PowerLattice , a Vancouver, Wash.-based low-power chiplet developer, raised $86m, per an SEC filing. Backers include Playground Global , Celesta Capital , and Matter Venture Partners. axios.link/4AbvyHT",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Vancouver, Wash.-based low-power chiplet developer",
+      "sector_refined": "算力与半导体",
+      "subsector": "芯片与半导体",
+      "business_description_zh": "开发低功耗芯粒技术",
+      "source_url": "https://axios.link/4AbvyHT",
+      "amount_original": "$86m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -143,7 +191,15 @@
       "valuation": null,
       "country": "Canada",
       "note": "Solink , a Canadian security video intelligence company, raised more than US$100m. Vertu Capital led, joined by Goldman Sachs Alternatives, Comcast Ventures, and Golub Growth. axios.link/4BVQYdN",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Canadian security video intelligence company",
+      "sector_refined": "企业软件",
+      "subsector": "视频安全与运营智能",
+      "business_description_zh": "为企业提供视频安全分析系统",
+      "source_url": "https://axios.link/4BVQYdN",
+      "amount_original": "US$100m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -156,7 +212,16 @@
       "valuation": null,
       "country": null,
       "note": "nPhase , an Atlantic Beach, Fla.-based clinical data platform, raised $30m in Series D funding led by Viking Global Investors . axios.link/4kn8DVa",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Atlantic Beach, Fla.-based clinical data platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "组学与研发数据",
+      "business_description_zh": "为临床试验和医疗机构提供临床数据平台",
+      "source_url": "https://axios.link/4kn8DVa",
+      "amount_original": "$30m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "研发工具与基础设施"
     },
     {
       "date": "2026-11-02",
@@ -169,7 +234,15 @@
       "valuation": null,
       "country": null,
       "note": "Advent agreed to acquire Vermeg , a Dutch provider of tech for capital markets and life insurance, from Charterhouse Capital Partners . axios.link/3UVKavQ",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Dutch provider of tech for capital markets and life insurance",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/3UVKavQ",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -182,7 +255,15 @@
       "valuation": null,
       "country": null,
       "note": "Avolon , I Squared Capital , and ADIA formed Constellation Aviation as an aircraft leasing infrastructure investment platform. It begins with a $1.4b seed portfolio of aircraft assets, with a source saying it eventually plans to scale to $6b. axios.link/4jTgNV4",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4jTgNV4",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -195,7 +276,15 @@
       "valuation": null,
       "country": "Canada",
       "note": "Blackstone is leading a $3.1b investment for a 49.9% stake in Mitsubishi 's (Tokyo: 8058) stake in a Canadian natural gas liquefaction project. axios.link/4yZSE39",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4yZSE39",
+      "amount_original": "$3.1b",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-02",
@@ -208,7 +297,15 @@
       "valuation": null,
       "country": null,
       "note": "Golden Gate Capital acquired Bonita Springs, Fla.-based All U Need Pest Control . axios.link/4kuUDbX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4kuUDbX",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -221,7 +318,15 @@
       "valuation": null,
       "country": null,
       "note": "CD&R and GTCR are working on a $40b take-private bid for Global Payments (NYSE: GPN), a payments processor in which GTCR holds a 16.35% stake, per the FT. axios.link/4syi0U0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/4syi0U0",
+      "amount_original": "$40b",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-02",
@@ -234,7 +339,15 @@
       "valuation": null,
       "country": null,
       "note": "Marvell agreed to acquire Lumentum in a $115 billion all-stock transaction.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "算力与半导体",
+      "subsector": "光通信与数据中心互连",
+      "business_description_zh": "面向相关客户提供光通信与数据中心互连产品或服务",
+      "source_url": "",
+      "amount_original": "$115 billion",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -247,7 +360,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Public ​Policy Holdings (LSE: PPHC) agreed to buy NYC-based strategic communications firm Reevemark for up to $80m, per Reuters. axios.link/4zgvxCe",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "媒体、娱乐与票务",
+      "business_description_zh": "面向相关客户提供媒体、娱乐与票务产品或服务",
+      "source_url": "https://axios.link/4zgvxCe",
+      "amount_original": "$80m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -260,7 +381,15 @@
       "valuation": null,
       "country": null,
       "note": "Quantum Capital Group completed its $4.7b sale of 90% of the natural gas generation assets owned by Cogentrix Energy to Vistra (NYSE: VST). axios.link/4smTN2F",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4smTN2F",
+      "amount_original": "$4.7b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -273,7 +402,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Rainier Partners acquired Apex Insurance Services , a Richardson, Texas-based non-standard auto MGA platform. axios.link/4iv8lcj",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Richardson, Texas-based non-standard auto MGA platform",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "保险与风险管理",
+      "business_description_zh": "面向相关客户提供保险与风险管理产品或服务",
+      "source_url": "https://axios.link/4iv8lcj",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -286,7 +423,15 @@
       "valuation": null,
       "country": null,
       "note": "Static Media , a Novacap portfolio company, acquired CarScoops.com , a digital platform for auto fanatics. axios.link/48si2DA",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "digital platform for auto fanatics",
+      "sector_refined": "消费与服务",
+      "subsector": "媒体、娱乐与票务",
+      "business_description_zh": "面向相关客户提供媒体、娱乐与票务产品或服务",
+      "source_url": "https://axios.link/48si2DA",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -299,7 +444,15 @@
       "valuation": "$10.1b enterprise value",
       "country": null,
       "note": "Stonepeak completed its acquisition of a 65% stake in lubricants maker Castrol from BP (LSE: BP) at a $10.1b enterprise value. axios.link/49ltNM7",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/49ltNM7",
+      "amount_original": "$10.1b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -312,7 +465,15 @@
       "valuation": null,
       "country": "Germany",
       "note": "TDR Capital agreed to buy Lovehoney Group , a German maker of sexual wellness products, for around €400m, per Sky News. axios.link/4sxvi33",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "German maker of sexual wellness products",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4sxvi33",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -325,7 +486,15 @@
       "valuation": "$285m",
       "country": null,
       "note": "Willdan Group (Nasdaq: WLDN) acquired Mantis Intermediate Holdings , a Houston-based energy marketing exchange platform, from Germspring Capital for $285m in cash. axios.link/47YoemK",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Houston-based energy marketing exchange platform",
+      "sector_refined": "能源与气候",
+      "subsector": "能源交易与市场基础设施",
+      "business_description_zh": "面向相关客户提供能源交易与市场基础设施产品或服务",
+      "source_url": "https://axios.link/47YoemK",
+      "amount_original": "$285m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -338,7 +507,15 @@
       "valuation": null,
       "country": null,
       "note": "Fund 1 Investments is prepping a take-private bid for Xponential Fitness (NYSE: XPOF), owner of Club Pilates and Pure Barre, in which it's the third-largest shareholder. axios.link/4yYJCU2",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "健身与本地生活服务",
+      "business_description_zh": "面向相关客户提供健身与本地生活服务产品或服务",
+      "source_url": "https://axios.link/4yYJCU2",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-02",
@@ -351,7 +528,15 @@
       "valuation": "$420m",
       "country": "Israel",
       "note": "Affle of India agreed to buy listed Israeli adtech company Perion for around $420m. axios.link/4jOSHuE",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "媒体、娱乐与票务",
+      "business_description_zh": "面向相关客户提供媒体、娱乐与票务产品或服务",
+      "source_url": "https://axios.link/4jOSHuE",
+      "amount_original": "$420m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -364,7 +549,15 @@
       "valuation": null,
       "country": null,
       "note": "Bláa Lónið , owner of Iceland's Blue Lagoon tourist attraction, revived domestic IPO plans. axios.link/4sxu7k9",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4sxu7k9",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -377,7 +570,15 @@
       "valuation": null,
       "country": null,
       "note": "Kaz Resources , a tungsten miner, plans to seek $2b next year via a direct public listing, per the WSJ. Current shareholders include Eric Trump and Donald Trump Jr. axios.link/4sAvChw",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "tungsten miner, plans to seek $2b next year via a direct public listing",
+      "sector_refined": "工业与机器人",
+      "subsector": "矿业与工业材料",
+      "business_description_zh": "面向相关客户提供矿业与工业材料产品或服务",
+      "source_url": "https://axios.link/4sAvChw",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-02",
@@ -390,7 +591,15 @@
       "valuation": null,
       "country": null,
       "note": "OPay cancelled its $304 million IPO after pricing the offering.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-02",
@@ -403,7 +612,15 @@
       "valuation": null,
       "country": null,
       "note": "Oracle (Nasdaq: ORCL) filed to sell $10b of new common shares and another $10b of investment-grade bonds, to help finance its AI buildout. axios.link/3WjycfY",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "企业软件",
+      "subsector": "云数据库与企业软件",
+      "business_description_zh": "面向相关客户提供云数据库与企业软件产品或服务",
+      "source_url": "https://axios.link/3WjycfY",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-02",
@@ -416,7 +633,15 @@
       "valuation": null,
       "country": null,
       "note": "Creandum , a Swedish VC firm, raised $750m for its eighth fund. axios.link/4e7PVx4",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Swedish VC firm, raised $750m for its eighth fund",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4e7PVx4",
+      "amount_original": "$750m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -429,7 +654,15 @@
       "valuation": "$3.25b valuation",
       "country": null,
       "note": "Applied Compute , a developer of custom open-source AI models for enterprises, raised $350m at a $3.25b valuation. Elad Gil led, joined by Kleiner Perkins, Lux Capital, Hanabi Capital, Nvidia, Blackstone, Shopify Ventures, HubSpot Ventures, Diffusion, Definition, Timeless, Layer Global, Neo, Abstract, Nova, Quantum Light, First Harmonic, and Swish. axios.link/4yVq1nG",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "developer of custom open-source AI models for enterprises",
+      "sector_refined": "算力与半导体",
+      "subsector": "AI 推理与模型基础设施",
+      "business_description_zh": "为企业定制并部署开源 AI 模型",
+      "source_url": "https://axios.link/4yVq1nG",
+      "amount_original": "$350m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -442,7 +675,15 @@
       "valuation": null,
       "country": null,
       "note": "Athena , a legal AI startup for commercial real estate, raised $2.5m led by a16z Speedrun . axios.link/4zp2IUp",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "legal AI startup for commercial real estate",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "为商业地产团队提供法律 AI 工具",
+      "source_url": "https://axios.link/4zp2IUp",
+      "amount_original": "$2.5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -455,7 +696,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Bioliberty , a U.K. maker of robotic gloves for stroke survivors, raised $3.3m in Series A extension funding from TGH Ventures, Ballad Ventures, 25M Health, and Whiterock. axios.link/4szXMJy",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "U.K. maker of robotic gloves for stroke survivors",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "手术、植入与康复设备",
+      "business_description_zh": "为中风康复患者开发机器人手套",
+      "source_url": "https://axios.link/4szXMJy",
+      "amount_original": "$3.3m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-03",
@@ -468,7 +718,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Brookfield Asset Management and QIA agreed to invest £2.5b into a U.K. data center project with Drax Group (LSE: DRX). axios.link/47YhoO3",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/47YhoO3",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -481,7 +739,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Clark , an NYC-based developer of audit agents, raised $11m in seed funding. Touring Capital led, joined by insiders Marathon Management Partners, Rerail, and Sofeon Ventures. axios.link/47R5xl1",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "NYC-based developer of audit agents",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "用 AI agent 自动执行审计工作",
+      "source_url": "https://axios.link/47R5xl1",
+      "amount_original": "$11m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -494,7 +760,15 @@
       "valuation": "$46b",
       "country": null,
       "note": "Cognition , valued by VCs at $46b, acquired Corridor , an AI code-security startup that had raised $31m from backers like Conviction, Felicis, Datadog, SV Angel, Sunflower Capital, Timeless, Artisanal Ventures, and Lux Capital. axios.link/4zoW9RL",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "AI code-security startup that had raised $31m from backers like Conviction, Felicis, Datadog, SV Angel, Sunflower Capital, Timeless, Artisanal Ventures, and Lux Capital",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4zoW9RL",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -507,7 +781,15 @@
       "valuation": null,
       "country": null,
       "note": "Corridian , a Boston-based maker of \"ultra-large\" autonomous underwater vehicles, raised $38m in seed funding, per Axios . Point72 Ventures led, joined by Balerion Space Ventures, Harpoon Ventures, DCVC, and Marlinspike. axios.link/3Ut6AV9",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Boston-based maker of \"ultra-large\" autonomous underwater vehicles",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "面向相关客户提供军用无人系统与自主装备产品或服务",
+      "source_url": "https://axios.link/3Ut6AV9",
+      "amount_original": "$38m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -520,7 +802,15 @@
       "valuation": null,
       "country": "Italy",
       "note": "CyberKord , an Italian automation platform for IT and cybersecurity ops, raised €2.7m in pre-seed funding. 360 Capital led, joined by Plus Partners, Addendum Capital, and Vento. axios.link/4BI8BNW",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Italian automation platform for IT and cybersecurity ops",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4BI8BNW",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -533,7 +823,15 @@
       "valuation": null,
       "country": "Germany",
       "note": "Enginsight , a German cybersecurity platform, raised an undisclosed amount of growth funding led by Verdane , with insiders UVC, HDI, and SIV participating. axios.link/4inWa28",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "German cybersecurity platform",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4inWa28",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -546,7 +844,15 @@
       "valuation": null,
       "country": "France",
       "note": "Gallium Defense , a French drone detection startup, raised €7.1m in seed funding. Keen Venture Partners and 360 Capital led, joined by Omnes Capital and Polytechnique Ventures. axios.link/4f1WLnV",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "French drone detection startup",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "面向相关客户提供军用无人系统与自主装备产品或服务",
+      "source_url": "https://axios.link/4f1WLnV",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -559,7 +865,15 @@
       "valuation": null,
       "country": null,
       "note": "Guava , an LA-based developer platform for voice agents, raised $12.5m in seed funding, per Axios Pro . Acrew Capital led, joined by Fourish Ventures, WillowTree Ventures, Clocktower Ventures, and insider Commerce Ventures. axios.link/4zriKNx",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "LA-based developer platform for voice agents",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4zriKNx",
+      "amount_original": "$12.5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -572,7 +886,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Hoxton Wealth , a wealth management platform focused on British expats, raised $135m from Aspirity Partners . axios.link/4A2SKb0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "wealth management platform focused on British expats, raised $135m from Aspirity Partners",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/4A2SKb0",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -585,7 +907,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Kodiact , an SF-based materials sourcing startup, raised $2.5m in pre-seed funding. Supply Change Capital led, joined by Green Circle FoodTech Ventures and Velocity Catalyst. axios.link/4ivsCyt",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based materials sourcing startup",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4ivsCyt",
+      "amount_original": "$2.5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -598,7 +928,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Larridin , a South SF-based AI value measurement platform, raised $30m in Series A funding. Pelion Ventures led, joined by a16z, Gradient Ventures, GFT, W23, Thayer, DG Daiwa Ventures, Alumni Ventures, and Cougar Capital. axios.link/4BGYwAO",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "South SF-based AI value measurement platform",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4BGYwAO",
+      "amount_original": "$30m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -611,7 +949,15 @@
       "valuation": null,
       "country": null,
       "note": "Lightship , a maker of battery-powered RVs and mobile power systems, is raising $50m in Series C funding, per Axios Pro . axios.link/4efOjRX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "maker of battery-powered RVs and mobile power systems, is raising $50m in Series C funding",
+      "sector_refined": "工业与机器人",
+      "subsector": "电动交通与移动能源",
+      "business_description_zh": "面向相关客户提供电动交通与移动能源产品或服务",
+      "source_url": "https://axios.link/4efOjRX",
+      "amount_original": "$50m",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-03",
@@ -624,7 +970,15 @@
       "valuation": null,
       "country": null,
       "note": "Ornn , a compute-trading startup, is raising a triple-tranched $150m in Series A funding led by Thrive Capital and General Catalyst , per Axios Pro . The final tranche could be at a valuation north of $1b. axios.link/4imy8Vf",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "compute-trading startup, is raising a triple-tranched $150m in Series A funding led by Thrive Capital and General Catalyst",
+      "sector_refined": "算力与半导体",
+      "subsector": "AI 推理与模型基础设施",
+      "business_description_zh": "撮合和交易计算资源",
+      "source_url": "https://axios.link/4imy8Vf",
+      "amount_original": "$150m",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-03",
@@ -637,7 +991,15 @@
       "valuation": null,
       "country": "Germany",
       "note": "Quint Computing , a German quantum computing startup, raised €9.1m. Vsquared led, joined by Quantonation, Nucleus Capital, Faber, Vanagon Ventures, and ZOHO.VC. axios.link/4zoQyL0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "German quantum computing startup",
+      "sector_refined": "算力与半导体",
+      "subsector": "量子计算",
+      "business_description_zh": "面向相关客户提供量子计算产品或服务",
+      "source_url": "https://axios.link/4zoQyL0",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -650,7 +1012,15 @@
       "valuation": null,
       "country": null,
       "note": "Roleo , an Estonian developer of career agents for tech professionals, raised €2.9m. Practica Capital led, joined by Inventure. axios.link/4AcObex",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Estonian developer of career agents for tech professionals",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4AcObex",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -663,7 +1033,16 @@
       "valuation": null,
       "country": "Canada",
       "note": "Specific Biologics , a Toronto-based developer of gene-editing therapies for rare diseases, raised US$35m in Series A funding. Hatteras Venture Partners led, joined by Lumira Ventures, adMare BioInnovations, Genesys Capital, BDC, DeepWork Capital, and Seido Capital. axios.link/4yUhcKQ",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Toronto-based developer of gene-editing therapies for rare diseases",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "细胞、基因与 RNA 疗法",
+      "business_description_zh": "开发面向罕见病的基因编辑疗法",
+      "source_url": "https://axios.link/4yUhcKQ",
+      "amount_original": "US$35m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-03",
@@ -676,7 +1055,16 @@
       "valuation": null,
       "country": null,
       "note": "StimCardio , an LA-based maker of atrial fibrillation wearables, raised $30m in Series A funding. Metis Medtech led, joined by Catalyst Health Ventures. axios.link/4zgp7Cx",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "LA-based maker of atrial fibrillation wearables",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "监测、可穿戴与其他器械",
+      "business_description_zh": "开发用于房颤监测的可穿戴设备",
+      "source_url": "https://axios.link/4zgp7Cx",
+      "amount_original": "$30m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-03",
@@ -689,7 +1077,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Syncere , a Palo Alto, Calif.-based maker of robotic lamps, raised $11m in pre-seed funding, per Axios Pro. A16z Speedrun led, joined by Draper Associates, Physical World, Sequel, and SeaX Ventures. axios.link/4A2PhJw",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Palo Alto, Calif.-based maker of robotic lamps",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "面向相关客户提供机器人与自主运输产品或服务",
+      "source_url": "https://axios.link/4A2PhJw",
+      "amount_original": "$11m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -702,7 +1098,15 @@
       "valuation": "$300m post-money valuation",
       "country": null,
       "note": "Trajectory , a tool to post-train models, raised $45m in Series A funding at a $300m post-money valuation. Sequoia Capital led, joined by Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. axios.link/4sNMWjh",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "tool to post-train models",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "模型训练、后训练与评测",
+      "business_description_zh": "面向相关客户提供模型训练、后训练与评测产品或服务",
+      "source_url": "https://axios.link/4sNMWjh",
+      "amount_original": "$45m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -715,7 +1119,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Tutor Intelligence , a Watertown, Mass.-based developer of warehouse robotics, raised $75m in Series B funding. A16z led, joined by USV and Neo. axios.link/4jUnnKZ",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Watertown, Mass.-based developer of warehouse robotics",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "为仓库开发自动化机器人",
+      "source_url": "https://axios.link/4jUnnKZ",
+      "amount_original": "$75m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -728,7 +1140,15 @@
       "valuation": null,
       "country": "United States",
       "note": "1248 Holdings acquired Generate Capital's ownership interests in Ubiquity, a fiber network owner in Texas and Nebraska. axios.link/3UamUdl",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "fiber network owner in Texas and Nebraska",
+      "sector_refined": "工业与机器人",
+      "subsector": "光纤与通信基础设施",
+      "business_description_zh": "面向相关客户提供光纤与通信基础设施产品或服务",
+      "source_url": "https://axios.link/3UamUdl",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -741,7 +1161,15 @@
       "valuation": null,
       "country": null,
       "note": "Alphabet (Nasdaq: GOOG) is in late-stage talks to acquire Howie AI , an AI scheduling assistant for businesses, per Axios Pro . Howie previously raised a $6m seed round led by True Ventures . axios.link/4BNOSwr",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "AI scheduling assistant for businesses",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4BNOSwr",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -754,7 +1182,15 @@
       "valuation": null,
       "country": "France",
       "note": "Bridgepoint agreed to acquire a majority stake in Batisanté , a French provider of safety and compliance services for residential buildings, from IK Partners . axios.link/4im45x4",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "French provider of safety and compliance services for residential buildings",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4im45x4",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -767,7 +1203,15 @@
       "valuation": null,
       "country": null,
       "note": "Nexus Capital Management acquired CW Holdings , parent company of women's apparel brands Coldwater Creek and Soft Surroundings, from Newtimes Group . axios.link/4zZyC9C",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4zZyC9C",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -780,7 +1224,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Cinven agreed to buy Theramex , a London-based pharma company focused on women's health, from PAI Partners and Carlyle for €2.6b. axios.link/4BDCPl6",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "London-based pharma company focused on women's health",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发面向特定疾病的治疗候选药物",
+      "source_url": "https://axios.link/4BDCPl6",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-03",
@@ -793,7 +1246,15 @@
       "valuation": null,
       "country": null,
       "note": "CrowdStrike (Nasdaq: CRWD) agreed to acquire Dreadnode , a provider of automated AI security testing that had raised $14m from Decibel Partners, Sands Capital, Next Frontier Capital, Indie.vc, and In-Q-Tel. axios.link/47UYEiw",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/47UYEiw",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -806,7 +1267,15 @@
       "valuation": null,
       "country": null,
       "note": "Grant Thornton completed its $5b buyout of CBIZ , creating one of the country's largest accounting firms. Grant Thornton backer New Mountain Capital made a new investment to support the deal. axios.link/4fLw0nx",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "会计、审计与专业服务",
+      "business_description_zh": "面向相关客户提供会计、审计与专业服务产品或服务",
+      "source_url": "https://axios.link/4fLw0nx",
+      "amount_original": "$5b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -819,7 +1288,16 @@
       "valuation": null,
       "country": null,
       "note": "GrowthCurve Capital acquired a majority stake in TailorMed , a medication access, affordability, and adherence platform. axios.link/4BFEruK",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "medication access, affordability, and adherence platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "保险、福利与支付",
+      "business_description_zh": "帮助患者和医疗机构处理医疗支付与用药可及性",
+      "source_url": "https://axios.link/4BFEruK",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗软件、支付与运营"
     },
     {
       "date": "2026-11-03",
@@ -832,7 +1310,15 @@
       "valuation": null,
       "country": null,
       "note": "L Squared acquired Edko , a provider of herbicide-based vegetation management services, from Incline Equity Partners . axios.link/4A7itiD",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "provider of herbicide-based vegetation management services",
+      "sector_refined": "能源与气候",
+      "subsector": "植被与自然资源管理",
+      "business_description_zh": "面向相关客户提供植被与自然资源管理产品或服务",
+      "source_url": "https://axios.link/4A7itiD",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -845,7 +1331,15 @@
       "valuation": null,
       "country": null,
       "note": "Main Capital Partners acquired a majority stake in 21south , a Dutch provider of ERP software for waste management and environmental services firms. axios.link/4yW2keM",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Dutch provider of ERP software for waste management and environmental services firms",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4yW2keM",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -858,7 +1352,15 @@
       "valuation": "$16m",
       "country": "United States",
       "note": "Omen AI , a VC-backed maker of liquid-cooling sensors, acquired Aquatic Labs , a Cambridge, Mass.-based fluid monitoring startup, for $16m in cash and stock. Aquatic Labs had raised $5m from Future Planet Capital, Burnt Island Ventures, Counteract Ventures, Ponderosa Ventures, and Propeller. axios.link/4BE7heT",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4BE7heT",
+      "amount_original": "$16m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -871,7 +1373,15 @@
       "valuation": null,
       "country": null,
       "note": "OpenGate Capital completed its purchase of Maersk Training , a provider of safety training and gas safety services, from A.P. Møller - Mærsk . axios.link/3U80j0l",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "provider of safety training and gas safety services",
+      "sector_refined": "企业软件",
+      "subsector": "企业培训与安全服务",
+      "business_description_zh": "面向相关客户提供企业培训与安全服务产品或服务",
+      "source_url": "https://axios.link/3U80j0l",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -884,7 +1394,15 @@
       "valuation": null,
       "country": null,
       "note": "Platinum Equity acquired Warren Valve , a provider of flow control valves, from Allied Group. Terms of the transaction were not disclosed. axios.link/4ijcIsb",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "provider of flow control valves",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4ijcIsb",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -897,7 +1415,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Salesforce (Nasdaq: CRM) agreed to acquire Cresta , a Sunnyvale, Calif.-based AI call-center company, for a reported $2.7b. Cresta had raised more than $280m from firms like a16z, Sequoia Capital, Greylock, JPMorgan, WiL, QIA, and Tiger Global. axios.link/4yUKZ5S",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4yUKZ5S",
+      "amount_original": "$2.7b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -910,7 +1436,15 @@
       "valuation": null,
       "country": null,
       "note": "SatPort Infrastructure , backed by EQT , agreed to pay around $300m for the ground stations of Speedcast , a Centerbridge Partners portfolio company, per Bloomberg. axios.link/4BDBM4E",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Centerbridge Partners portfolio company",
+      "sector_refined": "国防与航天",
+      "subsector": "卫星通信与地面基础设施",
+      "business_description_zh": "为卫星运营商提供天线和地面站基础设施",
+      "source_url": "https://axios.link/4BDBM4E",
+      "amount_original": "$300m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -923,7 +1457,15 @@
       "valuation": "US$1.45b",
       "country": null,
       "note": "Shell (NYSE: SHEL) agreed to sell its 16.7% stake in Australia's North West Shelf LNG project for US$1.45b to Abu Dhabi's XRG . axios.link/4BE4Mcq",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4BE4Mcq",
+      "amount_original": "US$1.45b",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -936,7 +1478,16 @@
       "valuation": null,
       "country": "Switzerland",
       "note": "Lonza (Swiss: LONN) agreed to acquire five CDMO manufacturing sites in the U.S. from Merck KGaA . axios.link/3UgH9Gi",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "CRO、CDMO 与临床试验",
+      "business_description_zh": "为药物研发提供临床试验或制造服务",
+      "source_url": "https://axios.link/3UgH9Gi",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "研发工具与基础设施"
     },
     {
       "date": "2026-11-03",
@@ -949,7 +1500,15 @@
       "valuation": null,
       "country": null,
       "note": "LS Power offered to buy the stake it doesn't already own in EV charging company EVgo (Nasdaq: EVGO) for $2 per share. axios.link/4yTPqOF",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "清洁燃料与气候技术",
+      "business_description_zh": "面向相关客户提供清洁燃料与气候技术产品或服务",
+      "source_url": "https://axios.link/4yTPqOF",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-03",
@@ -962,7 +1521,15 @@
       "valuation": "$4.2 billion",
       "country": null,
       "note": "CVR Energy agreed to acquire two refineries and related marketing assets from Marathon Petroleum for $4.2 billion.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "",
+      "amount_original": "$4.2 billion",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -975,7 +1542,15 @@
       "valuation": null,
       "country": null,
       "note": "Crescent Energy (NYSE: CRGY) said it's filed confidential IPO papers for its Crescent Royalties subsidiary. axios.link/4ivSNFk",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "能源权益与矿权",
+      "business_description_zh": "面向相关客户提供能源权益与矿权产品或服务",
+      "source_url": "https://axios.link/4ivSNFk",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -988,7 +1563,15 @@
       "valuation": null,
       "country": null,
       "note": "AE Industrial raised $850m for a single-asset CV focused on Blue Raven , a defense market distribution platform. axios.link/48sbiWn",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "defense market distribution platform",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/48sbiWn",
+      "amount_original": "$850m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-03",
@@ -1001,7 +1584,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Evertrue Capital , a London-based VC firm led by Yvonne Bajela (ex-Phoenix Court), raised $17m for a debut fund. axios.link/4iuIocS",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "London-based VC firm led by Yvonne Bajela (ex-Phoenix Court), raised $17m for a debut fund",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4iuIocS",
+      "amount_original": "$17m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1014,7 +1605,15 @@
       "valuation": null,
       "country": null,
       "note": "42AI , an Israel-based developer of behavioral AI models for financial institutions, raised $62.5m in seed funding from firms like Infinity Group. axios.link/4kvVvgu",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Israel-based developer of behavioral AI models for financial institutions",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "模型训练、后训练与评测",
+      "business_description_zh": "面向相关客户提供模型训练、后训练与评测产品或服务",
+      "source_url": "https://axios.link/4kvVvgu",
+      "amount_original": "$62.5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1027,7 +1626,15 @@
       "valuation": null,
       "country": "Spain",
       "note": "Artiso AI , a Spanish AI startup for fashion groups, raised €3m in pre-seed funding led by Criteria Venture Tech . axios.link/3X4zsnj",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Spanish AI startup for fashion groups",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/3X4zsnj",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1040,7 +1647,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Bit.bio , a British synthetic biology platform, raised $25m in Series D funding from M&G Investments and Abcam founder Jonathan Milner. axios.link/4BOzsbk",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "British synthetic biology platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "合成生物与其他生命科学",
+      "business_description_zh": "提供合成生物学细胞平台",
+      "source_url": "https://axios.link/4BOzsbk",
+      "amount_original": "$25m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "动物医疗与其他生命科学"
     },
     {
       "date": "2026-11-04",
@@ -1053,7 +1669,15 @@
       "valuation": null,
       "country": null,
       "note": "Brava Security , a threat detection startup, raised $15m led by Pitango and F2 , per Axios Pro . axios.link/4ipIZhm",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "threat detection startup",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4ipIZhm",
+      "amount_original": "$15m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1066,7 +1690,15 @@
       "valuation": null,
       "country": "India",
       "note": "EloElo , an Indian app for microdramas, raised $80m in Series C funding from Hornbill Capital and NBCUniversal . axios.link/4jRhtKG",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Indian app for microdramas",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4jRhtKG",
+      "amount_original": "$80m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1079,7 +1711,15 @@
       "valuation": "$16b valuation",
       "country": "United States",
       "note": "Fal , an SF-based inference infrastructure startup, raised $1.3b at a $16b valuation. Bessemer Venture Partners led, joined by Nvidia, Sound Ventures, and T. Rowe Price. axios.link/4jSMuxO",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based inference infrastructure startup",
+      "sector_refined": "算力与半导体",
+      "subsector": "AI 推理与模型基础设施",
+      "business_description_zh": "为开发者提供 AI 推理基础设施",
+      "source_url": "https://axios.link/4jSMuxO",
+      "amount_original": "$1.3b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1092,7 +1732,15 @@
       "valuation": null,
       "country": null,
       "note": "Juritas , a Stockholm-based contract intelligence startup, raised €1.4m in pre-seed funding led by Passion Capital . axios.link/47WVF9q",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Stockholm-based contract intelligence startup",
+      "sector_refined": "企业软件",
+      "subsector": "合同与法律科技",
+      "business_description_zh": "帮助企业分析和管理合同",
+      "source_url": "https://axios.link/47WVF9q",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1105,7 +1753,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "LO:TECH , a London-based continuous on-chain trading startup, raised $12m in Series A funding. MMC led, joined by Faction, 13 Books Capital, and Atka. axios.link/3WJ71v6",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "London-based continuous on-chain trading startup",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "模型训练、后训练与评测",
+      "business_description_zh": "面向相关客户提供模型训练、后训练与评测产品或服务",
+      "source_url": "https://axios.link/3WJ71v6",
+      "amount_original": "$12m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1118,7 +1774,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Osstec , a London-based maker of 3D-printed joint replacements, raised $8m. Embryo Ventures led, joined by Neovate Capital, New Wave Ventures, Oxford Technology Innovation Finance, and Empirical Ventures. axios.link/4sDU1mi",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "London-based maker of 3D-printed joint replacements",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "手术、植入与康复设备",
+      "business_description_zh": "为医疗机构和患者提供手术、植入或康复设备",
+      "source_url": "https://axios.link/4sDU1mi",
+      "amount_original": "$8m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-04",
@@ -1131,7 +1796,15 @@
       "valuation": null,
       "country": null,
       "note": "Phaze , a Park City, Utah-based provider of remote access to human and AI workers, raised $8.75m in seed funding, per Axios Pro . A16z led, joined by Indie, NextView, Makers, and Lerer Hippeau. axios.link/4sIcka3",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Park City, Utah-based provider of remote access to human and AI workers",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4sIcka3",
+      "amount_original": "$8.75m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1144,7 +1817,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Supa , a U.K. property management platform, raised £21m in seed funding. 2150 and OpenOcean led, joined by Kompas VC, Actia Capital Partners, and Heartfelt. axios.link/4jXGaVL",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "U.K. property management platform",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4jXGaVL",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1157,7 +1838,16 @@
       "valuation": null,
       "country": "Canada",
       "note": "Thryv Therapeutics , a Canadian heart failure biotech, raised US$30m in Series B funding. InClin led, joined by Amplitude Ventures, Investissement Québec, Lumira Ventures, adMare BioInnovations, CTI Life Sciences Fund, and Alexandria Venture Investments. axios.link/4imTvps",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Canadian heart failure biotech",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发面向特定疾病的治疗候选药物",
+      "source_url": "https://axios.link/4imTvps",
+      "amount_original": "US$30m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-04",
@@ -1170,7 +1860,15 @@
       "valuation": "$1b valuation",
       "country": "United States",
       "note": "Traversal , an NYC-based observability and site reliability startup, raised $120m at a $1b valuation from Kleiner Perkins, Redpoint Ventures, Khosla Ventures, and Sequoia Capital. axios.link/4eOfpj7",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "NYC-based observability and site reliability startup",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4eOfpj7",
+      "amount_original": "$120m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1183,7 +1881,16 @@
       "valuation": null,
       "country": null,
       "note": "Vitroscope, a Norwegian live-tissue platform, raised $7m in seed funding. Cerberus Ventures and YZR Capital led, joined by Arcas Ventures, Golden Egg Check, and Devico Invest. axios.link/4yUMOQp",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Norwegian live-tissue platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "疾病模型与临床数据",
+      "business_description_zh": "提供用于药物研发的活体组织实验平台",
+      "source_url": "https://axios.link/4yUMOQp",
+      "amount_original": "$7m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "研发工具与基础设施"
     },
     {
       "date": "2026-11-04",
@@ -1196,7 +1903,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Brite , a Sole Source Capital portfolio company, acquired Xobee Networks , a Fresno, Calif.-based provider of managed IT and cybersecurity services. axios.link/4yVA2Ry",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4yVA2Ry",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1209,7 +1924,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "PAI Partners agreed to buy British skincare brand Elemis from L'Occitane , whose backers include Blackstone and Goldman Sachs Alternatives . axios.link/4fcHocq",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4fcHocq",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1222,7 +1945,16 @@
       "valuation": null,
       "country": null,
       "note": "CVS Health plans to separate into two publicly traded companies in the first half of 2028.",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "其他医疗服务与数字医疗",
+      "business_description_zh": "为患者和医疗机构提供医疗服务或数字健康工具",
+      "source_url": "",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true,
+      "healthcare_group": "医疗服务与健康管理"
     },
     {
       "date": "2026-11-04",
@@ -1235,7 +1967,15 @@
       "valuation": null,
       "country": "Canada",
       "note": "Foodtastic made a hostile bid for Canadian restaurant franchisor MTY Food Group (TSX: MTY) for around C$1b, after two prior offers were rejected, per Bloomberg. axios.link/3Wm6tLE",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/3Wm6tLE",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-04",
@@ -1248,7 +1988,15 @@
       "valuation": "$400m",
       "country": "United States",
       "note": "CrowdStrike (Nasdaq: CRWD) agreed to acquire Fiddler AI , a Palo Alto, Calif.-based provider of software for monitoring AI agents, for $400m. Fiddler had raised nearly $100m from Capgemini Ventures, LDV Partners, LG Technology Ventures, Cisco Investments, Samsung Next Ventures, Mozilla Ventures, In-Q-Tel, Insight Partners, Lux Capital, and Lightspeed. axios.link/4kvVNE6",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4kvVNE6",
+      "amount_original": "$400m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1261,7 +2009,15 @@
       "valuation": null,
       "country": null,
       "note": "Empower Brands , an Oaktree -backed unit of Spectrum Brands (NYSE: SPB), plans to launch a hostile takeover bid for Helen of Troy (Nasdaq: HELE) after two offers were rebuffed, per Bloomberg. axios.link/4AbEAnV",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Oaktree -backed unit of Spectrum Brands (NYSE: SPB), plans to launch a hostile takeover bid for Helen of Troy (Nasdaq: HELE) after two offers were rebuffed",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌与家居用品",
+      "business_description_zh": "面向相关客户提供消费品牌与家居用品产品或服务",
+      "source_url": "https://axios.link/4AbEAnV",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-04",
@@ -1274,7 +2030,15 @@
       "valuation": "$915m",
       "country": null,
       "note": "Energy Capital Partners agreed to sell Harvestone Low Carbon Partners , owner of three corn-based ethanol biorefineries, to The Andersons (Nasdaq: ANDE) for $915m. axios.link/47TgCSy",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/47TgCSy",
+      "amount_original": "$915m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1287,7 +2051,15 @@
       "valuation": null,
       "country": null,
       "note": "Fort Point Capital recapitalized Gulf Pride Paving , a Gulfport, Miss.-based provider of paving, civil construction, soil stabilization, and concrete work. axios.link/4isN82I",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4isN82I",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-04",
@@ -1300,7 +2072,15 @@
       "valuation": null,
       "country": null,
       "note": "KeyBanc Capital Markets acquired Atlantic-Pacific Capital , an investment bank focused on private equity. axios.link/4iEJCCB",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "investment bank focused on private equity",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/4iEJCCB",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1313,7 +2093,16 @@
       "valuation": null,
       "country": "United States",
       "note": "LeanTaaS , backed by Bain Capital and Ergo Capital , bought SF-based LookDeep Health , a hospital virtual care platform. axios.link/4zmu79f",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "hospital virtual care platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医院、诊所与远程医疗",
+      "business_description_zh": "为医院和患者提供临床或远程医疗服务",
+      "source_url": "https://axios.link/4zmu79f",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗服务与健康管理"
     },
     {
       "date": "2026-11-04",
@@ -1326,7 +2115,15 @@
       "valuation": null,
       "country": "Canada",
       "note": "Novacap acquired OSI Maritime Systems , a Canadian provider of navigation and tactical tech for NATO and allied navies. axios.link/48uSpSF",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Canadian provider of navigation and tactical tech for NATO and allied navies",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "面向相关客户提供军用无人系统与自主装备产品或服务",
+      "source_url": "https://axios.link/48uSpSF",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1339,7 +2136,16 @@
       "valuation": null,
       "country": "United States",
       "note": "Porter , a health care IT services provider, acquired Pareto Intelligence , a Chicago-based population intelligence platform. axios.link/4A9BJvM",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "health care IT services provider, acquired Pareto Intelligence , a Chicago-based population intelligence platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "其他医疗 IT 与数据",
+      "business_description_zh": "为医疗机构提供软件、数据与运营工具",
+      "source_url": "https://axios.link/4A9BJvM",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗软件、支付与运营"
     },
     {
       "date": "2026-11-04",
@@ -1352,7 +2158,15 @@
       "valuation": null,
       "country": null,
       "note": "Restoration Systems , a Blue Point portfolio company, acquired Wells Masonry Restoration , a New Palestine, Ind.-based provider of exterior façade repair services. axios.link/3X3XLli",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "建筑维护与工程服务",
+      "business_description_zh": "面向相关客户提供建筑维护与工程服务产品或服务",
+      "source_url": "https://axios.link/3X3XLli",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1365,7 +2179,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Signia Aerospace , an Arcline portfolio company, agreed to acquire Heads Up Technologies , an Addison, Texas-based provider of aircraft cabin systems and passenger experience tech, from JLL Partners . axios.link/4sCKg7W",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Arcline portfolio company, agreed to acquire Heads Up Technologies , an Addison, Texas-based provider of aircraft cabin systems and passenger experience tech",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4sCKg7W",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1378,7 +2200,16 @@
       "valuation": null,
       "country": null,
       "note": "Rockwell Medical (Nasdaq: RMTI) agreed to acquire Vantive 's hemodialysis assets. axios.link/4zlAda1",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医疗设备与耗材供应",
+      "business_description_zh": "为医疗机构提供设备、耗材或相关服务",
+      "source_url": "https://axios.link/4zlAda1",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-04",
@@ -1391,7 +2222,15 @@
       "valuation": null,
       "country": null,
       "note": "One Rock Capital Partners agreed to buy a 70% stake in Kraft Heinz 's (NYSE: KHC) coffee unit, including Maxwell House and Gevalia, at an enterprise value north of $650m. axios.link/4yZpDEG",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4yZpDEG",
+      "amount_original": "$650m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1404,7 +2243,15 @@
       "valuation": null,
       "country": "China",
       "note": "YMTC , a VC-backed Chinese chipmaker, has put its Shanghai IPO on hold, per Reuters. axios.link/4zuJpZQ",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "VC-backed Chinese chipmaker, has put its Shanghai IPO on hold",
+      "sector_refined": "算力与半导体",
+      "subsector": "芯片与半导体",
+      "business_description_zh": "面向相关客户提供芯片与半导体产品或服务",
+      "source_url": "https://axios.link/4zuJpZQ",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-04",
@@ -1417,7 +2264,15 @@
       "valuation": null,
       "country": null,
       "note": "Ballistic Ventures , a cybersecurity-focused VC firm, is seeking to raise $360m for its third flagship fund and another $130m for a follow-on vehicle, per SEC filings. axios.link/48u75BA",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "cybersecurity-focused VC firm, is seeking to raise $360m for its third flagship fund and another $130m for a follow-on vehicle",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/48u75BA",
+      "amount_original": "$360m flagship + $130m follow-on",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-04",
@@ -1430,7 +2285,15 @@
       "valuation": null,
       "country": null,
       "note": "I Squared Capital raised $3b for its second infrastructure credit fund. isquaredcapital.com",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "",
+      "amount_original": "$3b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1443,7 +2306,15 @@
       "valuation": null,
       "country": null,
       "note": "Yosemite , an oncology-focused VC firm led by Reed Jobs, raised $350m for its second fund. axios.link/4yZqHZc",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "oncology-focused VC firm led by Reed Jobs, raised $350m for its second fund",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4yZqHZc",
+      "amount_original": "$350m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-04",
@@ -1456,7 +2327,15 @@
       "valuation": "$115b valuation",
       "country": "United Kingdom",
       "note": "Revolut , a British neobank, completed a secondary deal led by Glade Brook Capital Partners at a $115b valuation. Axios Pro flashback",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "British neobank, completed a secondary deal led by Glade Brook Capital Partners at a $115b valuation",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1469,7 +2348,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Alethio Therapeutics , a U.K. developer of therapies for myeloproliferative neoplasms, raised $90m in Series A financing. Sofinnova Partners and RA Capital led, joined by Oxford Science Enterprises, Cancer Research Horizons, and the University of Oxford. axios.link/4z69LAq",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "U.K. developer of therapies for myeloproliferative neoplasms",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发面向特定疾病的治疗候选药物",
+      "source_url": "https://axios.link/4z69LAq",
+      "amount_original": "$90m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-05",
@@ -1482,7 +2370,16 @@
       "valuation": null,
       "country": null,
       "note": "Biograil , a Copenhagen-based developer of oral drug delivery devices, raised €20m from Verve Ventures and Megatrend Invest . axios.link/4AcGoxg",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Copenhagen-based developer of oral drug delivery devices",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医疗设备与耗材供应",
+      "business_description_zh": "开发口服药物递送设备",
+      "source_url": "https://axios.link/4AcGoxg",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-05",
@@ -1495,7 +2392,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Cephable , a Wilmington, Mass.-based developer of an on-device AI assistant, raised $7m in seed funding from MassMutual Ventures, Triple Impact Capital, Hyperplane, Founder Collective, and Difference Partners. axios.link/48imODX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Wilmington, Mass.-based developer of an on-device AI assistant",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/48imODX",
+      "amount_original": "$7m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1508,7 +2413,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Circularity Fuels , a Redwood City, Calif.-based startup turning biogas into jet fuel, raised $7m in seed funding, per Axios Pro . DCVC and Trucks VC led, joined by Automotive Ventures and Sum Ventures. axios.link/4sFHz5w",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Redwood City, Calif.-based startup turning biogas into jet fuel",
+      "sector_refined": "能源与气候",
+      "subsector": "清洁燃料与气候技术",
+      "business_description_zh": "将沼气转化为低碳燃料",
+      "source_url": "https://axios.link/4sFHz5w",
+      "amount_original": "$7m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1521,7 +2434,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Finpilot , a Seattle-based maker of AI agents for institutional investors, raised $10m in Series A funding. Lobby Capital led, joined by Madrona. axios.link/4zrHx3Q",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Seattle-based maker of AI agents for institutional investors",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4zrHx3Q",
+      "amount_original": "$10m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1534,7 +2455,15 @@
       "valuation": null,
       "country": null,
       "note": "Firmly , which helps retailers sell through AI shopping assistants, raised $15m in Series A funding, per Axios Pro. Squarepoint Capital led, joined by Samsung Next, JPMorgan Payments, and Mastercard. axios.link/4iqgGzb",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4iqgGzb",
+      "amount_original": "$15m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1547,7 +2476,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Journify , an SF-based ad signal infrastructure startup, raised $12m in Series A funding. Al Mada Ventures led, joined by Silicon Badia, Shorooq, Bunat Ventures, Du Ventures, and Oraseya Capital. axios.link/4AfMJIj",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based ad signal infrastructure startup",
+      "sector_refined": "企业软件",
+      "subsector": "广告数据与信号基础设施",
+      "business_description_zh": "面向相关客户提供广告数据与信号基础设施产品或服务",
+      "source_url": "https://axios.link/4AfMJIj",
+      "amount_original": "$12m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1560,7 +2497,15 @@
       "valuation": null,
       "country": "Spain",
       "note": "Kabilio , a Spanish AI accounting platform, raised €10m. Picus Capital and Visionaries led, joined by CDTI. axios.link/4BOX8fG",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Spanish AI accounting platform",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "为企业提供 AI 会计软件",
+      "source_url": "https://axios.link/4BOX8fG",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1573,7 +2518,15 @@
       "valuation": null,
       "country": null,
       "note": "Lazarus AI , a Boston-based enterprise AI startup, raised $43m from QBE, Mucker Capital, Motivate Ventures, State Farm Ventures, Wave Function Ventures, Indelible Solutions, Joyance Partners, AllegisNL Capital, One Way Ventures, AngelList, Techstars, and Plug and Play. axios.link/4iChujt",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Boston-based enterprise AI startup",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4iChujt",
+      "amount_original": "$43m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1586,7 +2539,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Mindmax , a U.K. developer of AI-powered learning tools, raised £2.5m. Concept Ventures led, joined by Redrice Ventures, Daybreak Ventures, and Lerer Hippeau. axios.link/4BZIjaa",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "U.K. developer of AI-powered learning tools",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4BZIjaa",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1599,7 +2560,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Nooks , an SF-based revenue agent platform, raised $500m from General Catalyst 's Customer Value Fund. axios.link/4sOPXA0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based revenue agent platform",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "为销售团队提供自动执行工作的 AI agent",
+      "source_url": "https://axios.link/4sOPXA0",
+      "amount_original": "$500m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1612,7 +2581,15 @@
       "valuation": null,
       "country": null,
       "note": "Numica , an AI accounting platform seeking to buy small U.S. accounting firms from retiring owners, raised $21.4m led by Roosh X and Flashpoint Capital . axios.link/4A8QLBX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "AI accounting platform seeking to buy small U.S. accounting firms from retiring owners",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "为企业提供 AI 会计软件",
+      "source_url": "https://axios.link/4A8QLBX",
+      "amount_original": "$21.4m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1625,7 +2602,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Ocient , a Chicago-based data warehouse and unified AI analytics platform, raised $100m in Series C funding, per Axios Pro . Boka Capital and OCA Ventures led, joined by insiders Greycroft, In-Q-Tel, Blue Bear Capital, Buoyant Ventures, PSP Growth, Pritzker Group Venture Capital, and Eron Wolf. axios.link/4AhnJAs",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Chicago-based data warehouse and unified AI analytics platform",
+      "sector_refined": "算力与半导体",
+      "subsector": "AI 推理与模型基础设施",
+      "business_description_zh": "为企业提供数据仓库和统一 AI 分析平台",
+      "source_url": "https://axios.link/4AhnJAs",
+      "amount_original": "$100m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1638,7 +2623,15 @@
       "valuation": null,
       "country": null,
       "note": "Pliant , a Berlin-based provider of modular B2B payment solutions, raised $80m in Series C funding. Seaya Nova and Speedinvest led, joined by Illuminate Financial, Motive Partners, and Molten Ventures. axios.link/3WNR2Mh",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Berlin-based provider of modular B2B payment solutions",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "为企业提供模块化 B2B 支付解决方案",
+      "source_url": "https://axios.link/3WNR2Mh",
+      "amount_original": "$80m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1651,7 +2644,15 @@
       "valuation": null,
       "country": "Israel",
       "note": "Sentra , an Israeli AI security startup, raised $150m led by Capital One Ventures . axios.link/4sEAD8K",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Israeli AI security startup",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4sEAD8K",
+      "amount_original": "$150m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1664,7 +2665,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Shackleton AI , a NYC-based OS for construction, raised $5m in seed funding. Battery Ventures led, joined by Brick & Mortar Ventures, Trust Ventures, Correlation Ventures, Motivate Partners, Thayer Investment Partners, Act One Ventures, Brainstorm Ventures, and Silence VC. axios.link/4sELEqI",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "NYC-based OS for construction",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4sELEqI",
+      "amount_original": "$5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1677,7 +2686,15 @@
       "valuation": null,
       "country": null,
       "note": "Snaplii , a prepaid wallet for AI agents, raised $15m from backers like Hat-Trick Capital, per Axios Pro . axios.link/4z8dE7P",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "prepaid wallet for AI agents",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4z8dE7P",
+      "amount_original": "$15m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1690,7 +2707,15 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Soho Square Capital made a growth investment in Skiddle , a U.K. ticketing platform. axios.link/3V1Rqq5",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "媒体、娱乐与票务",
+      "business_description_zh": "面向相关客户提供媒体、娱乐与票务产品或服务",
+      "source_url": "https://axios.link/3V1Rqq5",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1703,7 +2728,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "T-Therapeutics , a U.K. developer of T-cell therapies for cancer and autoimmune diseases, raised $133m in Series B funding. Advent Life Sciences and British Business Bank led, joined by JJDC, Samsara BioCapital, M Ventures, Eli Lilly and insiders Sofinnova Partners, F-Prime, Digitalis Ventures, Cambridge Innovation Capital, Sanofi Ventures, Tencent, and BGF. axios.link/4khJrzB",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "U.K. developer of T-cell therapies for cancer and autoimmune diseases",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "细胞、基因与 RNA 疗法",
+      "business_description_zh": "开发癌症及自身免疫疾病的 T 细胞疗法",
+      "source_url": "https://axios.link/4khJrzB",
+      "amount_original": "$133m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-05",
@@ -1716,7 +2750,15 @@
       "valuation": null,
       "country": "Germany",
       "note": "Vaeridion , a German maker of electric planes, raised €30m. SHIFT Invest and Invest-NL led, joined by insiders World Fund, Project A and Vsquared Ventures. axios.link/4BIRJqf",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "German maker of electric planes",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "面向相关客户提供机器人与自主运输产品或服务",
+      "source_url": "https://axios.link/4BIRJqf",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1729,7 +2771,15 @@
       "valuation": "$21.5 billion valuation",
       "country": null,
       "note": "Zipline raised $1.5 billion at a $21.5 billion valuation.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "面向相关客户提供机器人与自主运输产品或服务",
+      "source_url": "",
+      "amount_original": "$1.5 billion",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1742,7 +2792,15 @@
       "valuation": null,
       "country": null,
       "note": "Weatherford Capital and David Blitzer's Bolt Ventures invested in the Arnold Palmer Junior Golf Tour . axios.link/3WaOpEh",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "体育赛事与青少年培训",
+      "business_description_zh": "面向相关客户提供体育赛事与青少年培训产品或服务",
+      "source_url": "https://axios.link/3WaOpEh",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1755,7 +2813,16 @@
       "valuation": "$240m",
       "country": null,
       "note": "Agilent Technologies (NYSE: A) completed its purchase of Philadelphia pathology software company Proscia for $240m in cash and up to $30m in earnouts. Proscia had raised around $130m from firms like Razor's Edge Ventures, Highline Capital, Flybridge, and Scale Venture Partners. axios.link/4euXiOW",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "诊断、影像与检测",
+      "business_description_zh": "为病理实验室提供数字病理软件",
+      "source_url": "https://axios.link/4euXiOW",
+      "amount_original": "$240m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-05",
@@ -1768,7 +2835,15 @@
       "valuation": null,
       "country": null,
       "note": "Copado , a VC-backed business applications operator, acquired Valo.ai , an intelligence and governance platform for Salesforce environments that was seeded by Spintop Ventures and Inventure. axios.link/4iptLc9",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "intelligence and governance platform for Salesforce environments that was seeded by Spintop Ventures and Inventure",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4iptLc9",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1781,7 +2856,15 @@
       "valuation": null,
       "country": null,
       "note": "EnCap is seeking to sell Enduring Resources IV , an oil producer operating in Colorado and New Mexico, for more than $4b (including debt), per Reuters. axios.link/4kzssIP",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "oil producer operating in Colorado and New Mexico",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4kzssIP",
+      "amount_original": "$4b",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-05",
@@ -1794,7 +2877,15 @@
       "valuation": null,
       "country": null,
       "note": "Adani Ports of India agreed to buy Evos , Europe's second-largest independent liquid storage operator, from Igneo Infrastructure Partners for €2.56b in enterprise value. axios.link/48w8CHk",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/48w8CHk",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1807,7 +2898,15 @@
       "valuation": null,
       "country": "Switzerland",
       "note": "Holcim (Swiss: HOLN) acquired Burdett Group , an Australian provider of aggregates, sand, and recycled construction demolition materials. axios.link/4sKldA6",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Australian provider of aggregates, sand, and recycled construction demolition materials",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4sKldA6",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1820,7 +2919,15 @@
       "valuation": null,
       "country": "India",
       "note": "Andavi Solutions , backed by Endeavour Capital , acquired Indian consumer goods and beverage tech company Infilect . axios.link/4iuXJu0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "零售与消费品 AI",
+      "business_description_zh": "面向相关客户提供零售与消费品 AI产品或服务",
+      "source_url": "https://axios.link/4iuXJu0",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1833,7 +2940,15 @@
       "valuation": null,
       "country": "United States",
       "note": "IonQ (NYSE: IONQ) completed its $1.15b buyout of Elisity , a San Jose, Calif.-based provider of identity-based network microsegmentation that had raised $78m from Insight Partners, Chevron Technology Ventures, TCV, Atlantic Bridge Capital, Rain Capital, Two Bear Capital, AllegisCyber, Hyperlink Ventures, and SaaS Ventures. axios.link/4zCnS1h",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4zCnS1h",
+      "amount_original": "$1.15b",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1846,7 +2961,15 @@
       "valuation": null,
       "country": null,
       "note": "Meta (Nasdaq: META) acquired Conductor, an AI coding startup that had raised over $24m from Batch Ventures, Spark Capital, Matrix, and (now Meta AI exec) Alexandr Wang. axios.link/4kFoezo",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "AI coding startup that had raised over $24m from Batch Ventures, Spark Capital, Matrix, and (now Meta AI exec) Alexandr Wang",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4kFoezo",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1859,7 +2982,15 @@
       "valuation": null,
       "country": null,
       "note": "NativeSeed Group , backed by Heartwood Partners , acquired the assets of Sharp Brothers Seed Co. , a Healy, Kan.-based seed cleaning business. axios.link/47YTfqQ",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "农业种子与供应链",
+      "business_description_zh": "面向相关客户提供农业种子与供应链产品或服务",
+      "source_url": "https://axios.link/47YTfqQ",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1872,7 +3003,15 @@
       "valuation": null,
       "country": null,
       "note": "Paradigm Equity Partners acquired STI Fabrics , a Kings Mountain, N.C.-based maker of upholstery and performance fabrics. axios.link/3UvEV5Z",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/3UvEV5Z",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1885,7 +3024,16 @@
       "valuation": "$10b",
       "country": null,
       "note": "AstraZeneca (NYSE: AZN) last month offered to buy Rhythm Pharmaceuticals (Nasdaq: RYTM) for around $10b, or $124 per share, per multiple reports. axios.link/4AcIdKr",
-      "healthcare": false
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发面向特定疾病的治疗候选药物",
+      "source_url": "https://axios.link/4AcIdKr",
+      "amount_original": "$10b",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-05",
@@ -1898,7 +3046,16 @@
       "valuation": null,
       "country": null,
       "note": "Sapphiros , a diagnostics platform backed by KKR , combined with Binx Health , a point-of-care diagnostics provider backed by Hildred , to form Onvaro . axios.link/4iZwU2k",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "diagnostics platform backed by KKR , combined with Binx Health , a point-of-care diagnostics provider backed by Hildred , to form Onvaro",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "诊断、影像与检测",
+      "business_description_zh": "为医疗机构提供诊断、影像或检测产品",
+      "source_url": "https://axios.link/4iZwU2k",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-05",
@@ -1911,7 +3068,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Southern Home Services , a Gryphon Investors portfolio company, acquired League City, Texas-based Vanderford Air and Plumbing . axios.link/4sJkEqa",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Gryphon Investors portfolio company, acquired League City, Texas-based Vanderford Air and Plumbing",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4sJkEqa",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1924,7 +3089,16 @@
       "valuation": null,
       "country": "United Kingdom",
       "note": "Vernacare International , backed by H.I.G. Capital , acquired both Bailey Instruments , a British maker of podiatry instruments, and ASep Healthcare , a British maker of single-use tourniquets. axios.link/4imThPb",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "British maker of podiatry instruments, and ASep Healthcare , a British maker of single-use tourniquets",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医疗设备与耗材供应",
+      "business_description_zh": "为医疗机构提供设备、耗材或相关服务",
+      "source_url": "https://axios.link/4imThPb",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-05",
@@ -1937,7 +3111,16 @@
       "valuation": null,
       "country": null,
       "note": "VisiQuate , a revenue cycle management firm backed by Accel-KKR , acquired Finvi 's Artiva HCx business, including its revenue cycle workflow platform. axios.link/4kx1DFg",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "revenue cycle management firm backed by Accel-KKR , acquired Finvi 's Artiva HCx business, including its revenue cycle workflow platform",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "收入周期与医疗行政",
+      "business_description_zh": "为医疗机构提供收入周期管理软件",
+      "source_url": "https://axios.link/4kx1DFg",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗软件、支付与运营"
     },
     {
       "date": "2026-11-05",
@@ -1950,7 +3133,15 @@
       "valuation": null,
       "country": null,
       "note": "Wendy's (Nasdaq: WEN) rejected a $1.4b take-private offer from Nelson Peltz's Trian Fund Management . axios.link/3V25nnX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "餐饮与连锁经营",
+      "business_description_zh": "面向相关客户提供餐饮与连锁经营产品或服务",
+      "source_url": "https://axios.link/3V25nnX",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-05",
@@ -1963,7 +3154,15 @@
       "valuation": null,
       "country": null,
       "note": "Yellow Card , a VC-backed stablecoin payments infrastructure provider, acquired GoMoney , a Brazilian provider of virtual asset services. axios.link/4eiJAPm",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "VC-backed stablecoin payments infrastructure provider, acquired GoMoney , a Brazilian provider of virtual asset services",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/4eiJAPm",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -1976,7 +3175,15 @@
       "valuation": null,
       "country": "China",
       "note": "Chinese regulators have blocked SoftBank 's agreement to buy the robotics unit of Swiss engineering firm ABB for nearly $5.4b in cash. BFD flashback .",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "面向相关客户提供机器人与自主运输产品或服务",
+      "source_url": "",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-05",
@@ -1989,7 +3196,15 @@
       "valuation": "$300m",
       "country": null,
       "note": "Churchill Capital XIV , a SPAC led by Michael Klein, filed for a $300m IPO. axios.link/4irm2dG",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SPAC led by Michael Klein, filed for a $300m IPO",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4irm2dG",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -2002,7 +3217,15 @@
       "valuation": null,
       "country": null,
       "note": "Rohlik Group , a Czech online grocer, is prepping a Prague IPO, per Bloomberg. Backers include Index Ventures, Kaya VC, All Star Holdings, and ERDB. axios.link/4BIfE9b",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Czech online grocer, is prepping a Prague IPO",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4BIfE9b",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-05",
@@ -2015,7 +3238,15 @@
       "valuation": null,
       "country": null,
       "note": "Wonder confidentially filed for an IPO; offering size was undisclosed.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "餐饮科技与本地服务",
+      "business_description_zh": "面向相关客户提供餐饮科技与本地服务产品或服务",
+      "source_url": "",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-05",
@@ -2028,7 +3259,15 @@
       "valuation": null,
       "country": null,
       "note": "V29 Capital raised $166 million for its debut fund.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "",
+      "amount_original": "$166 million",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2041,7 +3280,16 @@
       "valuation": null,
       "country": null,
       "note": "Anaheim Bio, a Dutch arthritis biotech, raised €40m in Series A funding from Droia Ventures, Frazier Life Sciences, RTW, Novartis Venture Fund, RV Invest, and Thuja Capital. axios.link/4A9CGEn",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Dutch arthritis biotech",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发关节炎治疗产品",
+      "source_url": "https://axios.link/4A9CGEn",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-06",
@@ -2054,7 +3302,16 @@
       "valuation": null,
       "country": null,
       "note": "AnewHealth , a Valley View, Ohio-based provider of pharmacy solutions for people with complex medical needs, secured new funding from Linden Capital Partners and insider Nautic Partners . Sellers include Vistria Group . axios.link/3UdFGR6",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "Valley View, Ohio-based provider of pharmacy solutions for people with complex medical needs",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "其他医疗服务与数字医疗",
+      "business_description_zh": "为复杂医疗需求患者提供药房解决方案",
+      "source_url": "https://axios.link/3UdFGR6",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗服务与健康管理"
     },
     {
       "date": "2026-11-06",
@@ -2067,7 +3324,15 @@
       "valuation": "$4.5b post-money valuation",
       "country": "United States",
       "note": "CesiumAstro , an Austin, Texas-based developer of space and defense communications systems and satellites, raised $730m in Series D funding at a $4.5b post-money valuation. Janus Henderson led, joined by Insight Partners, Sands Capital, Sumitomo Corporation of Americas, Woven Capital — Toyota's Growth Fund, Magnetar, and NewSpace Capital. The company also secured $100m in debt from EXIM and JPMorgan. axios.link/4sP5QGI",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Austin, Texas-based developer of space and defense communications systems and satellites",
+      "sector_refined": "国防与航天",
+      "subsector": "卫星通信与地面基础设施",
+      "business_description_zh": "为航天与国防客户提供卫星通信系统",
+      "source_url": "https://axios.link/4sP5QGI",
+      "amount_original": "$730m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2080,7 +3345,15 @@
       "valuation": null,
       "country": null,
       "note": "Claimlane , a Copenhagen-based aftersales product resolution platform, raised €5.6m in Series A funding. Verb Ventures led, joined by Skagerak Capital and Vendep Capital. axios.link/4eUHdCv",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Copenhagen-based aftersales product resolution platform",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4eUHdCv",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2093,7 +3366,15 @@
       "valuation": null,
       "country": null,
       "note": "Cowboy , an app store for AI, raised $5m in seed funding from Nebular, Compound, Semantic Ventures, Anagram, Shine Ventures, and Uncommon Projects. axios.link/4BJL9jp",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "app store for AI",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4BJL9jp",
+      "amount_original": "$5m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2106,7 +3387,15 @@
       "valuation": null,
       "country": "Australia",
       "note": "Future Secure AI , an Australian provider of AI coworkers for complex business processes, raised US$82m from Square Peg, Yarra Capital Management, Firetrail, and insider Macquarie Asset Management. axios.link/4kH4MCm",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Australian provider of AI coworkers for complex business processes",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "企业 Agent 与自动化",
+      "business_description_zh": "面向相关客户提供企业 Agent 与自动化产品或服务",
+      "source_url": "https://axios.link/4kH4MCm",
+      "amount_original": "US$82m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2119,7 +3408,15 @@
       "valuation": null,
       "country": "Australia",
       "note": "Harbinger , a Garden Grove, Calif.-based EV truckmaker, raised $240m in Series D funding. Tiger Global , Capricorn and Ridgeline led, joined by FedEx, Fidelity, Squarepoint Capital, Xantium, Maniv, Greycroft, Australian Gulf Capital, PanaceaVC, ArcTern Ventures, Leitmotif, TechNexus, and BuildGroup. axios.link/4z7fFRQ",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Garden Grove, Calif.-based EV truckmaker",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "制造面向车队客户的电动商用卡车",
+      "source_url": "https://axios.link/4z7fFRQ",
+      "amount_original": "$240m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2132,7 +3429,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Humble Robotics , an SF-based developer of autonomous electric freight trucks, raised $51m in Series A funding. Obvious Ventures led, joined by Eclipse and EIP. axios.link/4iCKqrt",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based developer of autonomous electric freight trucks",
+      "sector_refined": "工业与机器人",
+      "subsector": "机器人与自主运输",
+      "business_description_zh": "开发自动驾驶电动货运卡车",
+      "source_url": "https://axios.link/4iCKqrt",
+      "amount_original": "$51m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2145,7 +3450,15 @@
       "valuation": "$470m valuation",
       "country": null,
       "note": "Kalepa , an AI-powered insurance startup, raised $75m in Series B funding at a $470m valuation. Updata Partners led, joined by IA Ventures and Inspired Capital. axios.link/4emv5Kh",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "AI-powered insurance startup",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "为保险机构提供 AI 承保软件",
+      "source_url": "https://axios.link/4emv5Kh",
+      "amount_original": "$75m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2158,7 +3471,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Levine Leichtman Capital Partners made a growth investment in Concentric Energy Advisors , a Marlborough, Mass.-based consulting and advisory firm serving the North American utility and energy industry. axios.link/4z6kr1R",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "能源与气候",
+      "subsector": "电力与能源咨询",
+      "business_description_zh": "面向相关客户提供电力与能源咨询产品或服务",
+      "source_url": "https://axios.link/4z6kr1R",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2171,7 +3492,15 @@
       "valuation": null,
       "country": null,
       "note": "Lombard Systems , a provider of financing infrastructure for tokenized assets, raised $4m in pre-seed and seed funding. Ethereal Ventures led, joined by Alps Capital, First Commit Capital, Veris Ventures, and Atka. axios.link/4elOLy0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "provider of financing infrastructure for tokenized assets",
+      "sector_refined": "金融科技与金融服务",
+      "subsector": "支付、银行与金融基础设施",
+      "business_description_zh": "面向相关客户提供支付、银行与金融基础设施产品或服务",
+      "source_url": "https://axios.link/4elOLy0",
+      "amount_original": "$4m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2184,7 +3513,15 @@
       "valuation": null,
       "country": "United States",
       "note": "Nyquis , an SF-based maker of continuous monitoring systems for the electrical grid, raised $6.3m in seed funding, per Axios Pro . Gigascale Capital and South Park Commons led, joined by Allison Pickens Ventures, Friale, Sovereign's Capital, Pioneer Fund, Script Capital, and Lost Coast Ventures. axios.link/4z70msi",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SF-based maker of continuous monitoring systems for the electrical grid",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4z70msi",
+      "amount_original": "$6.3m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2197,7 +3534,15 @@
       "valuation": null,
       "country": "United States",
       "note": "RadianX , a Redwood City, Calif.-based maker of perovskite solar modules for edge energy, raised $9m in seed equity and project financing. The seed round was led by SOSV and Twynam . axios.link/4iHpGPv",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Redwood City, Calif.-based maker of perovskite solar modules for edge energy",
+      "sector_refined": "算力与半导体",
+      "subsector": "芯片与半导体",
+      "business_description_zh": "面向相关客户提供芯片与半导体产品或服务",
+      "source_url": "https://axios.link/4iHpGPv",
+      "amount_original": "$9m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2210,7 +3555,15 @@
       "valuation": null,
       "country": null,
       "note": "Shield AI , a San Diego-based developer of military drone tech, raised $1b in Series H funding. Disruptive and Innovation X Capital led, joined by Advent, JPMorganChase's Security and Resiliency Initiative, Snowpoint Ventures, Apandion, and Center15 Capital.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "San Diego-based developer of military drone tech",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "为军方开发自主无人机系统",
+      "source_url": "",
+      "amount_original": "$2b total equity package",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2223,7 +3576,15 @@
       "valuation": null,
       "country": null,
       "note": "Snowhawk Partners invested in Telarus , a Sandy, Utah-based technology services distributor. axios.link/4kBSBqt",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Sandy, Utah-based technology services distributor",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4kBSBqt",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2236,7 +3597,15 @@
       "valuation": null,
       "country": "Finland",
       "note": "Vensum Power , a Finnish developer of power conversion tech, raised €9m in Series A funding from Lifeline Ventures, Larsen & Toubro Group and Eviny Ventures. axios.link/4eeJdFy",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Finnish developer of power conversion tech",
+      "sector_refined": "能源与气候",
+      "subsector": "电力、电网与能源基础设施",
+      "business_description_zh": "面向相关客户提供电力、电网与能源基础设施产品或服务",
+      "source_url": "https://axios.link/4eeJdFy",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2249,7 +3618,15 @@
       "valuation": null,
       "country": null,
       "note": "Agility Robotics , a Salem, Ore.-based maker of humanoid robots for warehouses and factories, completed its reverse merger with Churchill Capital Corp. XI (Nasdaq: CCXI), a SPAC led by Michael Klein. Agility had raised around $680m from VC firms like Playground Global, DCVC, SoftBank, WP Global Partners, Kirra Capital, Palo Alto Capital, Amazon, and Gaingels. axios.link/4BIP0gw",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "SPAC led by Michael Klein",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4BIP0gw",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2262,7 +3639,16 @@
       "valuation": "$400m",
       "country": null,
       "note": "Bertram Capital agreed to acquire Medical Technology Associates , a Pinellas Park, Fla.-based medical equipment servicer, from Riverarch Equity Partners for $400m to $450m, per Axios Pro . axios.link/4iC75nA",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医疗设备与耗材供应",
+      "business_description_zh": "为医疗机构维护和服务医疗设备",
+      "source_url": "https://axios.link/4iC75nA",
+      "amount_original": "$400m–$450m",
+      "status": "announced",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-06",
@@ -2275,7 +3661,16 @@
       "valuation": null,
       "country": "United States",
       "note": "Curewell Capital agreed to acquire a majority stake in ECA Medical , a Thousand Oaks, Calif.-based manufacturer of single-use instruments and surgery-ready solutions, from LongueVue Capital . axios.link/4iy9Q9x",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "医疗设备与耗材供应",
+      "business_description_zh": "制造一次性手术器械与手术耗材",
+      "source_url": "https://axios.link/4iy9Q9x",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗器械与诊断"
     },
     {
       "date": "2026-11-06",
@@ -2288,7 +3683,15 @@
       "valuation": "$350m",
       "country": "United States",
       "note": "Dropbox (Nasdaq: DBX) agreed to acquire Tigris Data , a Sunnyvale, Calif.-based localized data storage startup, for $350m. Tigris had raised $40m from Spark Capital, a16z, General Catalyst, and Materialized View Capital. axios.link/4iYZLnr",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "企业软件",
+      "subsector": "分布式数据存储",
+      "business_description_zh": "面向相关客户提供分布式数据存储产品或服务",
+      "source_url": "https://axios.link/4iYZLnr",
+      "amount_original": "$350m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2301,7 +3704,15 @@
       "valuation": "$89m",
       "country": "Germany",
       "note": "Enhanced Group (NYSE: ENHA) agreed to acquire a 77% stake in DEAG Deutsche Entertainment , a listed German live entertainment and ticketing company, for around $89m. axios.link/48GMhXv",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "listed German live entertainment and ticketing company",
+      "sector_refined": "消费与服务",
+      "subsector": "媒体、娱乐与票务",
+      "business_description_zh": "面向相关客户提供媒体、娱乐与票务产品或服务",
+      "source_url": "https://axios.link/48GMhXv",
+      "amount_original": "$89m",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2314,7 +3725,15 @@
       "valuation": null,
       "country": null,
       "note": "Onyx Partners acquired Floridian furniture retailer Kane's Furniture . axios.link/3V3sBdk",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/3V3sBdk",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2327,7 +3746,15 @@
       "valuation": null,
       "country": null,
       "note": "General Mills is weighing a separation of its Häagen-Dazs ice-cream business outside North America, potentially setting it up for a sale.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-06",
@@ -2340,7 +3767,15 @@
       "valuation": "$525m",
       "country": null,
       "note": "Interlock Equity sold Lovelytics , an Arlington, Va.-based data and AI consultancy, to CDW (Nasdaq: CDW) for $525m. axios.link/4eOEDOk",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "AI 应用与工具",
+      "subsector": "行业 AI 应用",
+      "business_description_zh": "面向相关客户提供行业 AI 应用产品或服务",
+      "source_url": "https://axios.link/4eOEDOk",
+      "amount_original": "$525m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2353,7 +3788,15 @@
       "valuation": null,
       "country": "France",
       "note": "PAI Partners and ICG agreed to sell StellaGroup , a French provider of window closure and outdoor solar protection solutions, to VKR Holding . axios.link/4iIMnCP",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "French provider of window closure and outdoor solar protection solutions, to VKR Holding",
+      "sector_refined": "工业与机器人",
+      "subsector": "建筑材料与门窗系统",
+      "business_description_zh": "面向相关客户提供建筑材料与门窗系统产品或服务",
+      "source_url": "https://axios.link/4iIMnCP",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2366,7 +3809,15 @@
       "valuation": "$500m",
       "country": "Israel",
       "note": "Palo Alto Networks (Nasdaq: PANW) is in talks to acquire Clutch , an Israeli non-human identity security startup, for $500m in cash, per TechCrunch. Clutch has raised $28m from SignalFire, Merlin Ventures, Lightspeed, and The Westly Group. axios.link/4BNgGkg",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Israeli non-human identity security startup",
+      "sector_refined": "网络安全",
+      "subsector": "云、数据与身份安全",
+      "business_description_zh": "面向相关客户提供云、数据与身份安全产品或服务",
+      "source_url": "https://axios.link/4BNgGkg",
+      "amount_original": "$500m",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2379,7 +3830,15 @@
       "valuation": null,
       "country": null,
       "note": "Permira acquired Flint Group , a Kansas City, Mo.-based home services firm, from General Atlantic . axios.link/4sFGDy8",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4sFGDy8",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2392,7 +3851,15 @@
       "valuation": null,
       "country": null,
       "note": "Pfingsten acquired Runyon Surface Prep , a Carmel, Ind.-based distributor of consumables and equipment for concrete surface preparation, polishing, and resinous flooring applications. axios.link/4iAREMK",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/4iAREMK",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2405,7 +3872,15 @@
       "valuation": null,
       "country": null,
       "note": "Silver Lake and Saudi Arabia's PIF have held talks to acquire Unity Software (NYSE: U), a game engine with a $22b market cap, per Reuters. axios.link/4k1hcF0",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "game engine with a $22b market cap",
+      "sector_refined": "企业软件",
+      "subsector": "企业数据、运营与工作流软件",
+      "business_description_zh": "面向相关客户提供企业数据、运营与工作流软件产品或服务",
+      "source_url": "https://axios.link/4k1hcF0",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-06",
@@ -2418,7 +3893,15 @@
       "valuation": "$330m",
       "country": null,
       "note": "The New York Times Co. (NYSE: NYT) is in talks to buy Letterboxd , an online platform for movie lovers, from Tiny Capital for around $330m, per the NYT. axios.link/4sGIl2g",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "online platform for movie lovers",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4sGIl2g",
+      "amount_original": "$330m",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-06",
@@ -2431,7 +3914,15 @@
       "valuation": null,
       "country": null,
       "note": "The Riverside Co. acquired Hoover Circular Solutions , a Houston-based reusable packaging rental firm, from First Reserve . axios.link/3VdnQOp",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Houston-based reusable packaging rental firm",
+      "sector_refined": "工业与机器人",
+      "subsector": "工业设备、材料与制造",
+      "business_description_zh": "面向相关客户提供工业设备、材料与制造产品或服务",
+      "source_url": "https://axios.link/3VdnQOp",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2444,7 +3935,15 @@
       "valuation": null,
       "country": "Germany",
       "note": "The German government agreed to buy a 50% stake in German tankmaker KNDS from family investors for around €6.5b. axios.link/3UyQ2uX",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "国防与航天",
+      "subsector": "国防装备与制造",
+      "business_description_zh": "面向相关客户提供国防装备与制造产品或服务",
+      "source_url": "https://axios.link/3UyQ2uX",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2457,7 +3956,16 @@
       "valuation": null,
       "country": null,
       "note": "VisiQuate , backed by Accel-KKR , acquired enterprise workflow platform Artiva HCx from Finvi . axios.link/4zn0ap3",
-      "healthcare": false
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "收入周期与医疗行政",
+      "business_description_zh": "帮助医疗机构管理收入周期和行政流程",
+      "source_url": "https://axios.link/4zn0ap3",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "医疗软件、支付与运营"
     },
     {
       "date": "2026-11-06",
@@ -2470,7 +3978,15 @@
       "valuation": "$5.3 billion",
       "country": null,
       "note": "Shield AI agreed to acquire radar provider Echodyne for $5.3 billion.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "面向相关客户提供军用无人系统与自主装备产品或服务",
+      "source_url": "",
+      "amount_original": "$5.3 billion",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2483,7 +3999,15 @@
       "valuation": null,
       "country": null,
       "note": "Transom Capital Group agreed to buy the Cree LED business of Penguin Solutions (Nasdaq: PENG). axios.link/4sRiK72",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "算力与半导体",
+      "subsector": "芯片与半导体",
+      "business_description_zh": "面向相关客户提供芯片与半导体产品或服务",
+      "source_url": "https://axios.link/4sRiK72",
+      "amount_original": "",
+      "status": "announced",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2496,7 +4020,15 @@
       "valuation": "$300m",
       "country": null,
       "note": "Kartoon Studios Acquisition , a children's media and entertainment SPAC formed by Kartoon Studios, filed for a $300m IPO. axios.link/4BFp59r",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "children's media and entertainment SPAC formed by Kartoon Studios, filed for a $300m IPO",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/4BFp59r",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2509,7 +4041,15 @@
       "valuation": null,
       "country": null,
       "note": "Nota , a Japanese luxury villa operator backed by Hillhouse , is seeking to raise around $152m in its Tokyo IPO. axios.link/4z1CVR6",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "Japanese luxury villa operator backed by Hillhouse , is seeking to raise around $152m in its Tokyo IPO",
+      "sector_refined": "消费与服务",
+      "subsector": "消费品牌、零售与本地服务",
+      "business_description_zh": "面向相关客户提供消费品牌、零售与本地服务产品或服务",
+      "source_url": "https://axios.link/4z1CVR6",
+      "amount_original": "",
+      "status": "proposed_or_reported",
+      "exclude_from_amount_total": true
     },
     {
       "date": "2026-11-06",
@@ -2522,7 +4062,16 @@
       "valuation": null,
       "country": null,
       "note": "Rezera , a Boston-based biotech focused on inflammatory diseases, set IPO terms to 16.7m shares at $11-$13. It would have a $254m fully diluted valuation at the midpoint, and plans to list on the Nasdaq (RZRA). The Phase 3 biotech has raised $150m from firms like Novo Holdings, Blue Owl, 5AM Ventures, F-Prime, Epidarex Capital, and Sofinnova Capital. axios.link/4jZ2zSL",
-      "healthcare": true
+      "healthcare": true,
+      "business_description": "",
+      "sector_refined": "医疗与生命科学",
+      "subsector": "小分子与其他治疗管线",
+      "business_description_zh": "开发炎症性疾病疗法",
+      "source_url": "https://axios.link/4jZ2zSL",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false,
+      "healthcare_group": "药物发现与研发"
     },
     {
       "date": "2026-11-06",
@@ -2535,7 +4084,15 @@
       "valuation": null,
       "country": null,
       "note": "Sagard Private Equity raised €520m for its third fund-of-funds focused on emerging managers. axios.link/3WPZ6w2",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "基金/SPAC载体",
+      "subsector": "基金募集与上市载体",
+      "business_description_zh": "募集并管理投资基金或上市载体",
+      "source_url": "https://axios.link/3WPZ6w2",
+      "amount_original": "",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2548,7 +4105,15 @@
       "valuation": null,
       "country": null,
       "note": "CesiumAstro secured $100 million in debt from EXIM and JPMorgan.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "国防与航天",
+      "subsector": "卫星通信与地面基础设施",
+      "business_description_zh": "面向相关客户提供卫星通信与地面基础设施产品或服务",
+      "source_url": "",
+      "amount_original": "$100 million",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2561,7 +4126,15 @@
       "valuation": null,
       "country": null,
       "note": "Oracle raised $10 billion through investment-grade bonds to finance its AI buildout.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "企业软件",
+      "subsector": "云数据库与企业软件",
+      "business_description_zh": "面向相关客户提供云数据库与企业软件产品或服务",
+      "source_url": "",
+      "amount_original": "$10 billion",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     },
     {
       "date": "2026-11-06",
@@ -2574,7 +4147,15 @@
       "valuation": null,
       "country": null,
       "note": "Shield AI secured $500 million in debt led by JPMorgan.",
-      "healthcare": false
+      "healthcare": false,
+      "business_description": "",
+      "sector_refined": "国防与航天",
+      "subsector": "军用无人系统与自主装备",
+      "business_description_zh": "面向相关客户提供军用无人系统与自主装备产品或服务",
+      "source_url": "",
+      "amount_original": "$500 million",
+      "status": "reported_completed",
+      "exclude_from_amount_total": false
     }
   ]
 }
